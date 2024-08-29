@@ -1,3 +1,3 @@
-## QTM  531: COMPUTING II
+## QTM  530: COMPUTING I
 
-This class is the second sequence of the two computing courses connecting to QTM 530 Computing I. Assuming that students know how to explore and manipulate data, and do the basic programming, this course will focus on gaining building blocks for programming related to data analysis and machine learning. 
+This is the first course on computing for the Master's in Data Science. 
