@@ -1,7 +1,7 @@
 {
     "meta": {
         "count": 62,
-        "db_response_time_ms": 34,
+        "db_response_time_ms": 45,
         "page": 1,
         "per_page": 25,
         "groups_count": null
@@ -147,6 +147,16 @@
                     },
                     "institutions": [
                         {
+                            "id": "https://openalex.org/I70931966",
+                            "display_name": "Universit\u00e9 de Montr\u00e9al",
+                            "ror": "https://ror.org/0161xgx34",
+                            "country_code": "CA",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I70931966"
+                            ]
+                        },
+                        {
                             "id": "https://openalex.org/I159129438",
                             "display_name": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
                             "ror": "https://ror.org/002rjbv21",
@@ -155,16 +165,6 @@
                             "lineage": [
                                 "https://openalex.org/I159129438",
                                 "https://openalex.org/I49663120"
-                            ]
-                        },
-                        {
-                            "id": "https://openalex.org/I70931966",
-                            "display_name": "Universit\u00e9 de Montr\u00e9al",
-                            "ror": "https://ror.org/0161xgx34",
-                            "country_code": "CA",
-                            "type": "education",
-                            "lineage": [
-                                "https://openalex.org/I70931966"
                             ]
                         }
                     ],
@@ -179,15 +179,15 @@
                     ],
                     "affiliations": [
                         {
-                            "raw_affiliation_string": "Observatoire des Sciences et des Technologies (OST), Centre Interuniversitaire de Recherche sur la Science et la Technologie (CIRST), Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al, Montr\u00e9al, QC, Canada",
-                            "institution_ids": [
-                                "https://openalex.org/I159129438"
-                            ]
-                        },
-                        {
                             "raw_affiliation_string": "\u00c9cole de biblioth\u00e9conomie et des sciences de l\u2019information, Universit\u00e9 de Montr\u00e9al, Montr\u00e9al, QC, Canada",
                             "institution_ids": [
                                 "https://openalex.org/I70931966"
+                            ]
+                        },
+                        {
+                            "raw_affiliation_string": "Observatoire des Sciences et des Technologies (OST), Centre Interuniversitaire de Recherche sur la Science et la Technologie (CIRST), Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al, Montr\u00e9al, QC, Canada",
+                            "institution_ids": [
+                                "https://openalex.org/I159129438"
                             ]
                         }
                     ]
@@ -330,16 +330,6 @@
                     },
                     "institutions": [
                         {
-                            "id": "https://openalex.org/I58610484",
-                            "display_name": "Seattle University",
-                            "ror": "https://ror.org/02jqc0m91",
-                            "country_code": "US",
-                            "type": "education",
-                            "lineage": [
-                                "https://openalex.org/I58610484"
-                            ]
-                        },
-                        {
                             "id": "https://openalex.org/I201448701",
                             "display_name": "University of Washington",
                             "ror": "https://ror.org/00cvxb145",
@@ -347,6 +337,16 @@
                             "type": "education",
                             "lineage": [
                                 "https://openalex.org/I201448701"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I58610484",
+                            "display_name": "Seattle University",
+                            "ror": "https://ror.org/02jqc0m91",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I58610484"
                             ]
                         }
                     ],
@@ -363,8 +363,8 @@
                         {
                             "raw_affiliation_string": "Information School, University of Washington, Seattle, USA",
                             "institution_ids": [
-                                "https://openalex.org/I58610484",
-                                "https://openalex.org/I201448701"
+                                "https://openalex.org/I201448701",
+                                "https://openalex.org/I58610484"
                             ]
                         },
                         {
@@ -495,7 +495,7 @@
             "fwci": 76.992,
             "has_fulltext": true,
             "fulltext_origin": "pdf",
-            "cited_by_count": 856,
+            "cited_by_count": 883,
             "citation_normalized_percentile": {
                 "value": 0.999768,
                 "is_in_top_1_percent": true,
@@ -1666,7 +1666,7 @@
                     "cited_by_count": 9
                 }
             ],
-            "updated_date": "2024-09-15T02:14:23.367198",
+            "updated_date": "2024-09-24T13:11:44.699787",
             "created_date": "2017-08-08"
         },
         {
@@ -1798,6 +1798,7 @@
                     ]
                 }
             ],
+            "institution_assertions": [],
             "countries_distinct_count": 1,
             "institutions_distinct_count": 1,
             "corresponding_author_ids": [],
@@ -1806,7 +1807,7 @@
             "apc_paid": null,
             "fwci": 10.048,
             "has_fulltext": false,
-            "cited_by_count": 371,
+            "cited_by_count": 374,
             "citation_normalized_percentile": {
                 "value": 0.999842,
                 "is_in_top_1_percent": true,
@@ -2079,9 +2080,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
-                    "score": 0.46,
                     "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "display_name": "Quality education",
+                    "score": 0.46
                 }
             ],
             "grants": [],
@@ -2416,7 +2417,7 @@
                     "cited_by_count": 22
                 }
             ],
-            "updated_date": "2024-09-10T02:03:17.211885",
+            "updated_date": "2024-09-25T07:08:00.769007",
             "created_date": "2016-06-24"
         },
         {
@@ -2524,7 +2525,7 @@
             "apc_paid": null,
             "fwci": null,
             "has_fulltext": false,
-            "cited_by_count": 326,
+            "cited_by_count": 336,
             "citation_normalized_percentile": {
                 "value": 0.983683,
                 "is_in_top_1_percent": false,
@@ -2846,9 +2847,9 @@
             },
             "sustainable_development_goals": [
                 {
-                    "score": 0.81,
                     "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "display_name": "Quality education",
+                    "score": 0.81
                 }
             ],
             "grants": [],
@@ -3458,7 +3459,7 @@
                     "cited_by_count": 7
                 }
             ],
-            "updated_date": "2024-09-14T10:29:38.082934",
+            "updated_date": "2024-09-27T15:18:22.037319",
             "created_date": "2016-06-24"
         },
         {
@@ -3551,6 +3552,7 @@
                     "affiliations": []
                 }
             ],
+            "institution_assertions": [],
             "countries_distinct_count": 0,
             "institutions_distinct_count": 0,
             "corresponding_author_ids": [],
@@ -3771,7 +3773,7 @@
                     "cited_by_count": 11
                 }
             ],
-            "updated_date": "2024-09-11T16:40:49.539987",
+            "updated_date": "2024-09-26T03:03:28.396133",
             "created_date": "2021-03-01"
         },
         {
@@ -3943,6 +3945,7 @@
                     ]
                 }
             ],
+            "institution_assertions": [],
             "countries_distinct_count": 2,
             "institutions_distinct_count": 3,
             "corresponding_author_ids": [
@@ -3970,7 +3973,7 @@
             "fwci": 16.2,
             "has_fulltext": true,
             "fulltext_origin": "pdf",
-            "cited_by_count": 249,
+            "cited_by_count": 251,
             "citation_normalized_percentile": {
                 "value": 0.954957,
                 "is_in_top_1_percent": false,
@@ -6098,1331 +6101,7 @@
                     "cited_by_count": 22
                 }
             ],
-            "updated_date": "2024-09-05T22:29:23.243656",
-            "created_date": "2016-06-24"
-        },
-        {
-            "id": "https://openalex.org/W2038196424",
-            "doi": "https://doi.org/10.1007/s11192-013-1221-3",
-            "title": "Coverage and adoption of altmetrics sources in the bibliometric community",
-            "display_name": "Coverage and adoption of altmetrics sources in the bibliometric community",
-            "publication_year": 2014,
-            "publication_date": "2014-01-04",
-            "ids": {
-                "openalex": "https://openalex.org/W2038196424",
-                "doi": "https://doi.org/10.1007/s11192-013-1221-3",
-                "mag": "2038196424"
-            },
-            "language": "en",
-            "primary_location": {
-                "is_oa": false,
-                "landing_page_url": "https://doi.org/10.1007/s11192-013-1221-3",
-                "pdf_url": null,
-                "source": {
-                    "id": "https://openalex.org/S148561398",
-                    "display_name": "Scientometrics",
-                    "issn_l": "0138-9130",
-                    "issn": [
-                        "0138-9130",
-                        "1588-2861"
-                    ],
-                    "is_oa": false,
-                    "is_in_doaj": false,
-                    "is_core": true,
-                    "host_organization": "https://openalex.org/P4310320108",
-                    "host_organization_name": "Springer Nature (Netherlands)",
-                    "host_organization_lineage": [
-                        "https://openalex.org/P4310319965",
-                        "https://openalex.org/P4310320108"
-                    ],
-                    "host_organization_lineage_names": [
-                        "Springer Nature",
-                        "Springer Nature (Netherlands)"
-                    ],
-                    "type": "journal"
-                },
-                "license": null,
-                "license_id": null,
-                "version": null,
-                "is_accepted": false,
-                "is_published": false
-            },
-            "type": "article",
-            "type_crossref": "journal-article",
-            "indexed_in": [
-                "crossref"
-            ],
-            "open_access": {
-                "is_oa": true,
-                "oa_status": "green",
-                "oa_url": "http://hdl.handle.net/11108/158",
-                "any_repository_has_fulltext": true
-            },
-            "authorships": [
-                {
-                    "author_position": "first",
-                    "author": {
-                        "id": "https://openalex.org/A5014077037",
-                        "display_name": "Stefanie Haustein",
-                        "orcid": "https://orcid.org/0000-0003-0157-1430"
-                    },
-                    "institutions": [
-                        {
-                            "id": "https://openalex.org/I70931966",
-                            "display_name": "Universit\u00e9 de Montr\u00e9al",
-                            "ror": "https://ror.org/0161xgx34",
-                            "country_code": "CA",
-                            "type": "education",
-                            "lineage": [
-                                "https://openalex.org/I70931966"
-                            ]
-                        }
-                    ],
-                    "countries": [
-                        "CA"
-                    ],
-                    "is_corresponding": false,
-                    "raw_author_name": "Stefanie Haustein",
-                    "raw_affiliation_strings": [
-                        "\u00c9cole de biblioth\u00e9conomie et des sciences de l'information, Universit\u00e9 de Montr\u00e9al, Montr\u00e9al (Canada) and Science-Metrix, Montreal, Canada H2J 1Y6#TAB#"
-                    ],
-                    "affiliations": [
-                        {
-                            "raw_affiliation_string": "\u00c9cole de biblioth\u00e9conomie et des sciences de l'information, Universit\u00e9 de Montr\u00e9al, Montr\u00e9al (Canada) and Science-Metrix, Montreal, Canada H2J 1Y6#TAB#",
-                            "institution_ids": [
-                                "https://openalex.org/I70931966"
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "author_position": "middle",
-                    "author": {
-                        "id": "https://openalex.org/A5051954808",
-                        "display_name": "Isabella Peters",
-                        "orcid": "https://orcid.org/0000-0001-5840-0806"
-                    },
-                    "institutions": [
-                        {
-                            "id": "https://openalex.org/I2800024560",
-                            "display_name": "ZBW \u2013 Leibniz-Informationszentrum Wirtschaft",
-                            "ror": "https://ror.org/03a96gc12",
-                            "country_code": "DE",
-                            "type": "facility",
-                            "lineage": [
-                                "https://openalex.org/I2800024560",
-                                "https://openalex.org/I315704651"
-                            ]
-                        }
-                    ],
-                    "countries": [
-                        "DE"
-                    ],
-                    "is_corresponding": false,
-                    "raw_author_name": "Isabella Peters",
-                    "raw_affiliation_strings": [
-                        "ZBW --- German National Library of Economics, Leibniz Information Centre for Economics, Kiel, Germany 24105#TAB#"
-                    ],
-                    "affiliations": [
-                        {
-                            "raw_affiliation_string": "ZBW --- German National Library of Economics, Leibniz Information Centre for Economics, Kiel, Germany 24105#TAB#",
-                            "institution_ids": [
-                                "https://openalex.org/I2800024560"
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "author_position": "middle",
-                    "author": {
-                        "id": "https://openalex.org/A5001893735",
-                        "display_name": "Judit Bar\u2010Ilan",
-                        "orcid": "https://orcid.org/0000-0002-8796-5248"
-                    },
-                    "institutions": [
-                        {
-                            "id": "https://openalex.org/I13955877",
-                            "display_name": "Bar-Ilan University",
-                            "ror": "https://ror.org/03kgsv495",
-                            "country_code": "IL",
-                            "type": "education",
-                            "lineage": [
-                                "https://openalex.org/I13955877"
-                            ]
-                        }
-                    ],
-                    "countries": [
-                        "IL"
-                    ],
-                    "is_corresponding": false,
-                    "raw_author_name": "Judit Bar-Ilan",
-                    "raw_affiliation_strings": [
-                        "Department of Information Science, Bar-Ilan University, Ramat Gan, Israel 5290002#TAB#"
-                    ],
-                    "affiliations": [
-                        {
-                            "raw_affiliation_string": "Department of Information Science, Bar-Ilan University, Ramat Gan, Israel 5290002#TAB#",
-                            "institution_ids": [
-                                "https://openalex.org/I13955877"
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "author_position": "middle",
-                    "author": {
-                        "id": "https://openalex.org/A5023888391",
-                        "display_name": "Jason Priem",
-                        "orcid": "https://orcid.org/0000-0001-6187-6610"
-                    },
-                    "institutions": [
-                        {
-                            "id": "https://openalex.org/I114027177",
-                            "display_name": "University of North Carolina at Chapel Hill",
-                            "ror": "https://ror.org/0130frc33",
-                            "country_code": "US",
-                            "type": "education",
-                            "lineage": [
-                                "https://openalex.org/I114027177"
-                            ]
-                        }
-                    ],
-                    "countries": [
-                        "US"
-                    ],
-                    "is_corresponding": false,
-                    "raw_author_name": "Jason Priem",
-                    "raw_affiliation_strings": [
-                        "School of Information and Library Science, University of North Carolina at Chapel Hill, Chapel Hill, USA 3360100#TAB#"
-                    ],
-                    "affiliations": [
-                        {
-                            "raw_affiliation_string": "School of Information and Library Science, University of North Carolina at Chapel Hill, Chapel Hill, USA 3360100#TAB#",
-                            "institution_ids": [
-                                "https://openalex.org/I114027177"
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "author_position": "middle",
-                    "author": {
-                        "id": "https://openalex.org/A5055957807",
-                        "display_name": "Hadas Shema",
-                        "orcid": "https://orcid.org/0000-0003-0536-1772"
-                    },
-                    "institutions": [
-                        {
-                            "id": "https://openalex.org/I13955877",
-                            "display_name": "Bar-Ilan University",
-                            "ror": "https://ror.org/03kgsv495",
-                            "country_code": "IL",
-                            "type": "education",
-                            "lineage": [
-                                "https://openalex.org/I13955877"
-                            ]
-                        }
-                    ],
-                    "countries": [
-                        "IL"
-                    ],
-                    "is_corresponding": false,
-                    "raw_author_name": "Hadas Shema",
-                    "raw_affiliation_strings": [
-                        "Department of Information Science, Bar-Ilan University, Ramat Gan, Israel 5290002#TAB#"
-                    ],
-                    "affiliations": [
-                        {
-                            "raw_affiliation_string": "Department of Information Science, Bar-Ilan University, Ramat Gan, Israel 5290002#TAB#",
-                            "institution_ids": [
-                                "https://openalex.org/I13955877"
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "author_position": "last",
-                    "author": {
-                        "id": "https://openalex.org/A5007913994",
-                        "display_name": "Jens Terliesner",
-                        "orcid": null
-                    },
-                    "institutions": [
-                        {
-                            "id": "https://openalex.org/I44260953",
-                            "display_name": "Heinrich Heine University D\u00fcsseldorf",
-                            "ror": "https://ror.org/024z2rq82",
-                            "country_code": "DE",
-                            "type": "education",
-                            "lineage": [
-                                "https://openalex.org/I44260953"
-                            ]
-                        }
-                    ],
-                    "countries": [
-                        "DE"
-                    ],
-                    "is_corresponding": false,
-                    "raw_author_name": "Jens Terliesner",
-                    "raw_affiliation_strings": [
-                        "Department of Information Science, Heinrich Heine University, Duesseldorf, Germany 40225#TAB#"
-                    ],
-                    "affiliations": [
-                        {
-                            "raw_affiliation_string": "Department of Information Science, Heinrich Heine University, Duesseldorf, Germany 40225#TAB#",
-                            "institution_ids": [
-                                "https://openalex.org/I44260953"
-                            ]
-                        }
-                    ]
-                }
-            ],
-            "countries_distinct_count": 4,
-            "institutions_distinct_count": 5,
-            "corresponding_author_ids": [],
-            "corresponding_institution_ids": [],
-            "apc_list": {
-                "value": 2290,
-                "currency": "EUR",
-                "value_usd": 2890,
-                "provenance": "doaj"
-            },
-            "apc_paid": null,
-            "fwci": 27.739,
-            "has_fulltext": true,
-            "fulltext_origin": "pdf",
-            "cited_by_count": 248,
-            "citation_normalized_percentile": {
-                "value": 0.999772,
-                "is_in_top_1_percent": true,
-                "is_in_top_10_percent": true
-            },
-            "cited_by_percentile_year": {
-                "min": 99,
-                "max": 100
-            },
-            "biblio": {
-                "volume": "101",
-                "issue": "2",
-                "first_page": "1145",
-                "last_page": "1163"
-            },
-            "is_retracted": false,
-            "is_paratext": false,
-            "primary_topic": {
-                "id": "https://openalex.org/T10102",
-                "display_name": "Bibliometric Analysis and Research Evaluation",
-                "score": 0.9994,
-                "subfield": {
-                    "id": "https://openalex.org/subfields/1804",
-                    "display_name": "Statistics, Probability and Uncertainty"
-                },
-                "field": {
-                    "id": "https://openalex.org/fields/18",
-                    "display_name": "Decision Sciences"
-                },
-                "domain": {
-                    "id": "https://openalex.org/domains/2",
-                    "display_name": "Social Sciences"
-                }
-            },
-            "topics": [
-                {
-                    "id": "https://openalex.org/T10102",
-                    "display_name": "Bibliometric Analysis and Research Evaluation",
-                    "score": 0.9994,
-                    "subfield": {
-                        "id": "https://openalex.org/subfields/1804",
-                        "display_name": "Statistics, Probability and Uncertainty"
-                    },
-                    "field": {
-                        "id": "https://openalex.org/fields/18",
-                        "display_name": "Decision Sciences"
-                    },
-                    "domain": {
-                        "id": "https://openalex.org/domains/2",
-                        "display_name": "Social Sciences"
-                    }
-                },
-                {
-                    "id": "https://openalex.org/T13976",
-                    "display_name": "Webometrics Analysis in Academic Research",
-                    "score": 0.9912,
-                    "subfield": {
-                        "id": "https://openalex.org/subfields/1710",
-                        "display_name": "Information Systems"
-                    },
-                    "field": {
-                        "id": "https://openalex.org/fields/17",
-                        "display_name": "Computer Science"
-                    },
-                    "domain": {
-                        "id": "https://openalex.org/domains/3",
-                        "display_name": "Physical Sciences"
-                    }
-                },
-                {
-                    "id": "https://openalex.org/T10064",
-                    "display_name": "Statistical Mechanics of Complex Networks",
-                    "score": 0.9752,
-                    "subfield": {
-                        "id": "https://openalex.org/subfields/3109",
-                        "display_name": "Statistical and Nonlinear Physics"
-                    },
-                    "field": {
-                        "id": "https://openalex.org/fields/31",
-                        "display_name": "Physics and Astronomy"
-                    },
-                    "domain": {
-                        "id": "https://openalex.org/domains/3",
-                        "display_name": "Physical Sciences"
-                    }
-                }
-            ],
-            "keywords": [
-                {
-                    "id": "https://openalex.org/keywords/bookmarking",
-                    "display_name": "Bookmarking",
-                    "score": 0.8415303
-                },
-                {
-                    "id": "https://openalex.org/keywords/altmetrics",
-                    "display_name": "Altmetrics",
-                    "score": 0.575979
-                },
-                {
-                    "id": "https://openalex.org/keywords/bibliometric-analysis",
-                    "display_name": "Bibliometric Analysis",
-                    "score": 0.560779
-                },
-                {
-                    "id": "https://openalex.org/keywords/academic-web-impact",
-                    "display_name": "Academic Web Impact",
-                    "score": 0.53785
-                },
-                {
-                    "id": "https://openalex.org/keywords/tracking",
-                    "display_name": "Tracking (education)",
-                    "score": 0.5327727
-                },
-                {
-                    "id": "https://openalex.org/keywords/internet-research",
-                    "display_name": "Internet Research",
-                    "score": 0.506043
-                },
-                {
-                    "id": "https://openalex.org/keywords/download",
-                    "display_name": "Download",
-                    "score": 0.4379566
-                }
-            ],
-            "concepts": [
-                {
-                    "id": "https://openalex.org/C2778407487",
-                    "wikidata": "https://www.wikidata.org/wiki/Q14565201",
-                    "display_name": "Altmetrics",
-                    "level": 2,
-                    "score": 0.9907138
-                },
-                {
-                    "id": "https://openalex.org/C176504155",
-                    "wikidata": "https://www.wikidata.org/wiki/Q4943254",
-                    "display_name": "Bookmarking",
-                    "level": 2,
-                    "score": 0.8415303
-                },
-                {
-                    "id": "https://openalex.org/C518677369",
-                    "wikidata": "https://www.wikidata.org/wiki/Q202833",
-                    "display_name": "Social media",
-                    "level": 2,
-                    "score": 0.8047025
-                },
-                {
-                    "id": "https://openalex.org/C2778805511",
-                    "wikidata": "https://www.wikidata.org/wiki/Q1713",
-                    "display_name": "Citation",
-                    "level": 2,
-                    "score": 0.64366204
-                },
-                {
-                    "id": "https://openalex.org/C2775936607",
-                    "wikidata": "https://www.wikidata.org/wiki/Q466845",
-                    "display_name": "Tracking (education)",
-                    "level": 2,
-                    "score": 0.5327727
-                },
-                {
-                    "id": "https://openalex.org/C83867959",
-                    "wikidata": "https://www.wikidata.org/wiki/Q371467",
-                    "display_name": "Scopus",
-                    "level": 3,
-                    "score": 0.48297492
-                },
-                {
-                    "id": "https://openalex.org/C136764020",
-                    "wikidata": "https://www.wikidata.org/wiki/Q466",
-                    "display_name": "World Wide Web",
-                    "level": 1,
-                    "score": 0.47388476
-                },
-                {
-                    "id": "https://openalex.org/C2780154274",
-                    "wikidata": "https://www.wikidata.org/wiki/Q7126717",
-                    "display_name": "Download",
-                    "level": 2,
-                    "score": 0.4379566
-                },
-                {
-                    "id": "https://openalex.org/C41008148",
-                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
-                    "display_name": "Computer science",
-                    "level": 0,
-                    "score": 0.4055729
-                },
-                {
-                    "id": "https://openalex.org/C108827166",
-                    "wikidata": "https://www.wikidata.org/wiki/Q175975",
-                    "display_name": "Internet privacy",
-                    "level": 1,
-                    "score": 0.3676476
-                },
-                {
-                    "id": "https://openalex.org/C15744967",
-                    "wikidata": "https://www.wikidata.org/wiki/Q9418",
-                    "display_name": "Psychology",
-                    "level": 0,
-                    "score": 0.32467502
-                },
-                {
-                    "id": "https://openalex.org/C17744445",
-                    "wikidata": "https://www.wikidata.org/wiki/Q36442",
-                    "display_name": "Political science",
-                    "level": 0,
-                    "score": 0.14986339
-                },
-                {
-                    "id": "https://openalex.org/C2779473830",
-                    "wikidata": "https://www.wikidata.org/wiki/Q1540899",
-                    "display_name": "MEDLINE",
-                    "level": 2,
-                    "score": 0.12879115
-                },
-                {
-                    "id": "https://openalex.org/C19417346",
-                    "wikidata": "https://www.wikidata.org/wiki/Q7922",
-                    "display_name": "Pedagogy",
-                    "level": 1,
-                    "score": 0.0
-                },
-                {
-                    "id": "https://openalex.org/C199539241",
-                    "wikidata": "https://www.wikidata.org/wiki/Q7748",
-                    "display_name": "Law",
-                    "level": 1,
-                    "score": 0.0
-                }
-            ],
-            "mesh": [],
-            "locations_count": 4,
-            "locations": [
-                {
-                    "is_oa": false,
-                    "landing_page_url": "https://doi.org/10.1007/s11192-013-1221-3",
-                    "pdf_url": null,
-                    "source": {
-                        "id": "https://openalex.org/S148561398",
-                        "display_name": "Scientometrics",
-                        "issn_l": "0138-9130",
-                        "issn": [
-                            "0138-9130",
-                            "1588-2861"
-                        ],
-                        "is_oa": false,
-                        "is_in_doaj": false,
-                        "is_core": true,
-                        "host_organization": "https://openalex.org/P4310320108",
-                        "host_organization_name": "Springer Nature (Netherlands)",
-                        "host_organization_lineage": [
-                            "https://openalex.org/P4310319965",
-                            "https://openalex.org/P4310320108"
-                        ],
-                        "host_organization_lineage_names": [
-                            "Springer Nature",
-                            "Springer Nature (Netherlands)"
-                        ],
-                        "type": "journal"
-                    },
-                    "license": null,
-                    "license_id": null,
-                    "version": null,
-                    "is_accepted": false,
-                    "is_published": false
-                },
-                {
-                    "is_oa": true,
-                    "landing_page_url": "http://hdl.handle.net/11108/158",
-                    "pdf_url": "http://hdl.handle.net/11108/158",
-                    "source": {
-                        "id": "https://openalex.org/S4306402552",
-                        "display_name": "ZBW Publication Archive (ZBW \u2013 Leibniz Information Centre for Economics)",
-                        "issn_l": null,
-                        "issn": null,
-                        "is_oa": true,
-                        "is_in_doaj": false,
-                        "is_core": false,
-                        "host_organization": "https://openalex.org/I2800024560",
-                        "host_organization_name": "ZBW \u2013 Leibniz-Informationszentrum Wirtschaft",
-                        "host_organization_lineage": [
-                            "https://openalex.org/I2800024560"
-                        ],
-                        "host_organization_lineage_names": [
-                            "ZBW \u2013 Leibniz-Informationszentrum Wirtschaft"
-                        ],
-                        "type": "repository"
-                    },
-                    "license": null,
-                    "license_id": null,
-                    "version": "acceptedVersion",
-                    "is_accepted": true,
-                    "is_published": false
-                },
-                {
-                    "is_oa": true,
-                    "landing_page_url": "https://cdr.lib.unc.edu/downloads/d504rv85k",
-                    "pdf_url": "https://cdr.lib.unc.edu/downloads/d504rv85k",
-                    "source": {
-                        "id": "https://openalex.org/S4306401075",
-                        "display_name": "Carolina Digital Repository (University of North Carolina at Chapel Hill)",
-                        "issn_l": null,
-                        "issn": null,
-                        "is_oa": true,
-                        "is_in_doaj": false,
-                        "is_core": false,
-                        "host_organization": "https://openalex.org/I114027177",
-                        "host_organization_name": "University of North Carolina at Chapel Hill",
-                        "host_organization_lineage": [
-                            "https://openalex.org/I114027177"
-                        ],
-                        "host_organization_lineage_names": [
-                            "University of North Carolina at Chapel Hill"
-                        ],
-                        "type": "repository"
-                    },
-                    "license": null,
-                    "license_id": null,
-                    "version": "submittedVersion",
-                    "is_accepted": false,
-                    "is_published": false
-                },
-                {
-                    "is_oa": true,
-                    "landing_page_url": "https://arxiv.org/abs/1304.7300",
-                    "pdf_url": "https://arxiv.org/pdf/1304.7300",
-                    "source": {
-                        "id": "https://openalex.org/S4306400194",
-                        "display_name": "arXiv (Cornell University)",
-                        "issn_l": null,
-                        "issn": null,
-                        "is_oa": true,
-                        "is_in_doaj": false,
-                        "is_core": false,
-                        "host_organization": "https://openalex.org/I205783295",
-                        "host_organization_name": "Cornell University",
-                        "host_organization_lineage": [
-                            "https://openalex.org/I205783295"
-                        ],
-                        "host_organization_lineage_names": [
-                            "Cornell University"
-                        ],
-                        "type": "repository"
-                    },
-                    "license": null,
-                    "license_id": null,
-                    "version": "submittedVersion",
-                    "is_accepted": false,
-                    "is_published": false
-                }
-            ],
-            "best_oa_location": {
-                "is_oa": true,
-                "landing_page_url": "http://hdl.handle.net/11108/158",
-                "pdf_url": "http://hdl.handle.net/11108/158",
-                "source": {
-                    "id": "https://openalex.org/S4306402552",
-                    "display_name": "ZBW Publication Archive (ZBW \u2013 Leibniz Information Centre for Economics)",
-                    "issn_l": null,
-                    "issn": null,
-                    "is_oa": true,
-                    "is_in_doaj": false,
-                    "is_core": false,
-                    "host_organization": "https://openalex.org/I2800024560",
-                    "host_organization_name": "ZBW \u2013 Leibniz-Informationszentrum Wirtschaft",
-                    "host_organization_lineage": [
-                        "https://openalex.org/I2800024560"
-                    ],
-                    "host_organization_lineage_names": [
-                        "ZBW \u2013 Leibniz-Informationszentrum Wirtschaft"
-                    ],
-                    "type": "repository"
-                },
-                "license": null,
-                "license_id": null,
-                "version": "acceptedVersion",
-                "is_accepted": true,
-                "is_published": false
-            },
-            "sustainable_development_goals": [
-                {
-                    "score": 0.79,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
-                }
-            ],
-            "grants": [],
-            "datasets": [],
-            "versions": [],
-            "referenced_works_count": 38,
-            "referenced_works": [
-                "https://openalex.org/W1519117689",
-                "https://openalex.org/W1531607676",
-                "https://openalex.org/W1553564559",
-                "https://openalex.org/W1559646899",
-                "https://openalex.org/W1572136682",
-                "https://openalex.org/W1591703882",
-                "https://openalex.org/W1601133125",
-                "https://openalex.org/W1731700882",
-                "https://openalex.org/W1965964177",
-                "https://openalex.org/W1973816953",
-                "https://openalex.org/W2019945085",
-                "https://openalex.org/W2025321386",
-                "https://openalex.org/W2038032083",
-                "https://openalex.org/W2041540760",
-                "https://openalex.org/W2054174667",
-                "https://openalex.org/W2068517964",
-                "https://openalex.org/W2073023209",
-                "https://openalex.org/W2073784871",
-                "https://openalex.org/W2073938428",
-                "https://openalex.org/W2076872364",
-                "https://openalex.org/W2081116169",
-                "https://openalex.org/W2087255458",
-                "https://openalex.org/W2088858100",
-                "https://openalex.org/W2109249821",
-                "https://openalex.org/W2110875044",
-                "https://openalex.org/W2111418748",
-                "https://openalex.org/W2125281300",
-                "https://openalex.org/W2143612877",
-                "https://openalex.org/W2167465293",
-                "https://openalex.org/W2181126706",
-                "https://openalex.org/W229899568",
-                "https://openalex.org/W2329395632",
-                "https://openalex.org/W2495607178",
-                "https://openalex.org/W2547617692",
-                "https://openalex.org/W3143640170",
-                "https://openalex.org/W3154793279",
-                "https://openalex.org/W4210997956",
-                "https://openalex.org/W4236811854"
-            ],
-            "related_works": [
-                "https://openalex.org/W4301494992",
-                "https://openalex.org/W3168377380",
-                "https://openalex.org/W2949258821",
-                "https://openalex.org/W2899084033",
-                "https://openalex.org/W2748952813",
-                "https://openalex.org/W2613734879",
-                "https://openalex.org/W2414441297",
-                "https://openalex.org/W2357888573",
-                "https://openalex.org/W2171990619",
-                "https://openalex.org/W2038196424"
-            ],
-            "abstract_inverted_index": {
-                "Altmetrics,": [
-                    0
-                ],
-                "indices": [
-                    1,
-                    20
-                ],
-                "based": [
-                    2
-                ],
-                "on": [
-                    3,
-                    72,
-                    182
-                ],
-                "social": [
-                    4,
-                    28,
-                    37,
-                    50,
-                    73,
-                    128,
-                    205
-                ],
-                "media": [
-                    5,
-                    51,
-                    129
-                ],
-                "platforms": [
-                    6,
-                    65
-                ],
-                "and": [
-                    7,
-                    30,
-                    47,
-                    66,
-                    154,
-                    175,
-                    204,
-                    221
-                ],
-                "tools,": [
-                    8
-                ],
-                "have": [
-                    9
-                ],
-                "recently": [
-                    10
-                ],
-                "emerged": [
-                    11
-                ],
-                "as": [
-                    12
-                ],
-                "alternative": [
-                    13
-                ],
-                "means": [
-                    14
-                ],
-                "of": [
-                    15,
-                    49,
-                    56,
-                    63,
-                    69,
-                    82,
-                    118,
-                    124,
-                    138,
-                    145,
-                    160,
-                    164,
-                    229
-                ],
-                "measuring": [
-                    16
-                ],
-                "scholarly": [
-                    17,
-                    33
-                ],
-                "impact.": [
-                    18
-                ],
-                "Such": [
-                    19
-                ],
-                "assume": [
-                    21
-                ],
-                "that": [
-                    22,
-                    127,
-                    211,
-                    222
-                ],
-                "scholars": [
-                    23
-                ],
-                "in": [
-                    24,
-                    35,
-                    90,
-                    99,
-                    195,
-                    199
-                ],
-                "fact": [
-                    25
-                ],
-                "populate": [
-                    26
-                ],
-                "online": [
-                    27,
-                    64,
-                    139,
-                    213
-                ],
-                "environments,": [
-                    29
-                ],
-                "interact": [
-                    31
-                ],
-                "with": [
-                    32,
-                    107
-                ],
-                "products": [
-                    34
-                ],
-                "the": [
-                    36,
-                    45,
-                    67,
-                    116,
-                    119
-                ],
-                "web.": [
-                    38
-                ],
-                "We": [
-                    39,
-                    111
-                ],
-                "tested": [
-                    40
-                ],
-                "this": [
-                    41
-                ],
-                "assumption": [
-                    42
-                ],
-                "by": [
-                    43,
-                    85,
-                    219
-                ],
-                "examining": [
-                    44,
-                    58
-                ],
-                "use": [
-                    46,
-                    62,
-                    68,
-                    218
-                ],
-                "coverage": [
-                    48,
-                    78
-                ],
-                "environments": [
-                    52
-                ],
-                "amongst": [
-                    53
-                ],
-                "a": [
-                    54,
-                    113,
-                    158,
-                    191,
-                    225
-                ],
-                "sample": [
-                    55
-                ],
-                "bibliometricians": [
-                    57,
-                    87,
-                    178
-                ],
-                "both": [
-                    59,
-                    173
-                ],
-                "their": [
-                    60,
-                    70,
-                    133
-                ],
-                "own": [
-                    61
-                ],
-                "papers": [
-                    71
-                ],
-                "reference": [
-                    74,
-                    202
-                ],
-                "managers.": [
-                    75
-                ],
-                "As": [
-                    76
-                ],
-                "expected,": [
-                    77
-                ],
-                "varied:": [
-                    79
-                ],
-                "82": [
-                    80
-                ],
-                "%": [
-                    81,
-                    96,
-                    144,
-                    186
-                ],
-                "articles": [
-                    83
-                ],
-                "published": [
-                    84
-                ],
-                "sampled": [
-                    86
-                ],
-                "were": [
-                    88,
-                    97,
-                    131
-                ],
-                "included": [
-                    89,
-                    98
-                ],
-                "Mendeley": [
-                    91,
-                    101
-                ],
-                "libraries,": [
-                    92
-                ],
-                "while": [
-                    93,
-                    151,
-                    190
-                ],
-                "only": [
-                    94
-                ],
-                "28": [
-                    95
-                ],
-                "CiteULike.": [
-                    100
-                ],
-                "bookmarking": [
-                    102
-                ],
-                "was": [
-                    103
-                ],
-                "moderately": [
-                    104
-                ],
-                "correlated": [
-                    105
-                ],
-                "(.45)": [
-                    106
-                ],
-                "Scopus": [
-                    108
-                ],
-                "citation": [
-                    109
-                ],
-                "counts.": [
-                    110
-                ],
-                "conducted": [
-                    112
-                ],
-                "survey": [
-                    114
-                ],
-                "among": [
-                    115
-                ],
-                "participants": [
-                    117
-                ],
-                "STI2012": [
-                    120
-                ],
-                "participants.": [
-                    121
-                ],
-                "Over": [
-                    122
-                ],
-                "half": [
-                    123,
-                    163
-                ],
-                "respondents": [
-                    125
-                ],
-                "asserted": [
-                    126
-                ],
-                "tools": [
-                    130,
-                    140,
-                    214
-                ],
-                "affecting": [
-                    132
-                ],
-                "professional": [
-                    134
-                ],
-                "lives,": [
-                    135
-                ],
-                "although": [
-                    136
-                ],
-                "uptake": [
-                    137
-                ],
-                "varied": [
-                    141
-                ],
-                "widely.": [
-                    142
-                ],
-                "68": [
-                    143
-                ],
-                "those": [
-                    146,
-                    165
-                ],
-                "surveyed": [
-                    147
-                ],
-                "had": [
-                    148,
-                    167,
-                    179
-                ],
-                "LinkedIn": [
-                    149
-                ],
-                "accounts,": [
-                    150,
-                    169
-                ],
-                "Academia.edu,": [
-                    152
-                ],
-                "Mendeley,": [
-                    153
-                ],
-                "ResearchGate": [
-                    155
-                ],
-                "each": [
-                    156
-                ],
-                "claimed": [
-                    157
-                ],
-                "fifth": [
-                    159
-                ],
-                "respondents.": [
-                    161
-                ],
-                "Nearly": [
-                    162
-                ],
-                "responding": [
-                    166
-                ],
-                "Twitter": [
-                    168
-                ],
-                "which": [
-                    170
-                ],
-                "they": [
-                    171,
-                    223
-                ],
-                "used": [
-                    172
-                ],
-                "personally": [
-                    174
-                ],
-                "professionally.": [
-                    176
-                ],
-                "Surveyed": [
-                    177
-                ],
-                "mixed": [
-                    180
-                ],
-                "opinions": [
-                    181
-                ],
-                "altmetrics'": [
-                    183
-                ],
-                "potential;": [
-                    184
-                ],
-                "72": [
-                    185
-                ],
-                "valued": [
-                    187
-                ],
-                "download": [
-                    188
-                ],
-                "counts,": [
-                    189
-                ],
-                "third": [
-                    192
-                ],
-                "saw": [
-                    193
-                ],
-                "potential": [
-                    194
-                ],
-                "tracking": [
-                    196
-                ],
-                "articles'": [
-                    197
-                ],
-                "influence": [
-                    198
-                ],
-                "blogs,": [
-                    200
-                ],
-                "Wikipedia,": [
-                    201
-                ],
-                "managers,": [
-                    203
-                ],
-                "media.": [
-                    206
-                ],
-                "Altogether,": [
-                    207
-                ],
-                "these": [
-                    208
-                ],
-                "findings": [
-                    209
-                ],
-                "suggest": [
-                    210
-                ],
-                "some": [
-                    212
-                ],
-                "are": [
-                    215
-                ],
-                "seeing": [
-                    216
-                ],
-                "substantial": [
-                    217
-                ],
-                "bibliometricians,": [
-                    220
-                ],
-                "present": [
-                    224
-                ],
-                "potentially": [
-                    226
-                ],
-                "valuable": [
-                    227
-                ],
-                "source": [
-                    228
-                ],
-                "impact": [
-                    230
-                ],
-                "data.": [
-                    231
-                ]
-            },
-            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2038196424",
-            "counts_by_year": [
-                {
-                    "year": 2024,
-                    "cited_by_count": 5
-                },
-                {
-                    "year": 2023,
-                    "cited_by_count": 13
-                },
-                {
-                    "year": 2022,
-                    "cited_by_count": 14
-                },
-                {
-                    "year": 2021,
-                    "cited_by_count": 16
-                },
-                {
-                    "year": 2020,
-                    "cited_by_count": 22
-                },
-                {
-                    "year": 2019,
-                    "cited_by_count": 30
-                },
-                {
-                    "year": 2018,
-                    "cited_by_count": 28
-                },
-                {
-                    "year": 2017,
-                    "cited_by_count": 38
-                },
-                {
-                    "year": 2016,
-                    "cited_by_count": 31
-                },
-                {
-                    "year": 2015,
-                    "cited_by_count": 24
-                },
-                {
-                    "year": 2014,
-                    "cited_by_count": 22
-                },
-                {
-                    "year": 2013,
-                    "cited_by_count": 2
-                },
-                {
-                    "year": 2012,
-                    "cited_by_count": 1
-                }
-            ],
-            "updated_date": "2024-09-13T01:09:23.318928",
+            "updated_date": "2024-09-18T13:09:16.185631",
             "created_date": "2016-06-24"
         },
         {
@@ -7553,6 +6232,7 @@
                     ]
                 }
             ],
+            "institution_assertions": [],
             "countries_distinct_count": 1,
             "institutions_distinct_count": 1,
             "corresponding_author_ids": [],
@@ -7562,7 +6242,7 @@
             "fwci": 25.416,
             "has_fulltext": true,
             "fulltext_origin": "ngrams",
-            "cited_by_count": 246,
+            "cited_by_count": 249,
             "citation_normalized_percentile": {
                 "value": 0.976379,
                 "is_in_top_1_percent": false,
@@ -7892,9 +6572,9 @@
             },
             "sustainable_development_goals": [
                 {
-                    "score": 0.75,
                     "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "display_name": "Quality education",
+                    "score": 0.75
                 }
             ],
             "grants": [],
@@ -13453,7 +12133,1331 @@
                     "cited_by_count": 15
                 }
             ],
-            "updated_date": "2024-09-09T01:02:56.487349",
+            "updated_date": "2024-09-24T04:34:03.379402",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2038196424",
+            "doi": "https://doi.org/10.1007/s11192-013-1221-3",
+            "title": "Coverage and adoption of altmetrics sources in the bibliometric community",
+            "display_name": "Coverage and adoption of altmetrics sources in the bibliometric community",
+            "publication_year": 2014,
+            "publication_date": "2014-01-04",
+            "ids": {
+                "openalex": "https://openalex.org/W2038196424",
+                "doi": "https://doi.org/10.1007/s11192-013-1221-3",
+                "mag": "2038196424"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": false,
+                "landing_page_url": "https://doi.org/10.1007/s11192-013-1221-3",
+                "pdf_url": null,
+                "source": {
+                    "id": "https://openalex.org/S148561398",
+                    "display_name": "Scientometrics",
+                    "issn_l": "0138-9130",
+                    "issn": [
+                        "0138-9130",
+                        "1588-2861"
+                    ],
+                    "is_oa": false,
+                    "is_in_doaj": false,
+                    "is_core": true,
+                    "host_organization": "https://openalex.org/P4310320108",
+                    "host_organization_name": "Springer Nature (Netherlands)",
+                    "host_organization_lineage": [
+                        "https://openalex.org/P4310319965",
+                        "https://openalex.org/P4310320108"
+                    ],
+                    "host_organization_lineage_names": [
+                        "Springer Nature",
+                        "Springer Nature (Netherlands)"
+                    ],
+                    "type": "journal"
+                },
+                "license": null,
+                "license_id": null,
+                "version": null,
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "article",
+            "type_crossref": "journal-article",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "green",
+                "oa_url": "http://hdl.handle.net/11108/158",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5014077037",
+                        "display_name": "Stefanie Haustein",
+                        "orcid": "https://orcid.org/0000-0003-0157-1430"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I70931966",
+                            "display_name": "Universit\u00e9 de Montr\u00e9al",
+                            "ror": "https://ror.org/0161xgx34",
+                            "country_code": "CA",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I70931966"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "CA"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Stefanie Haustein",
+                    "raw_affiliation_strings": [
+                        "\u00c9cole de biblioth\u00e9conomie et des sciences de l'information, Universit\u00e9 de Montr\u00e9al, Montr\u00e9al (Canada) and Science-Metrix, Montreal, Canada H2J 1Y6#TAB#"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "\u00c9cole de biblioth\u00e9conomie et des sciences de l'information, Universit\u00e9 de Montr\u00e9al, Montr\u00e9al (Canada) and Science-Metrix, Montreal, Canada H2J 1Y6#TAB#",
+                            "institution_ids": [
+                                "https://openalex.org/I70931966"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5051954808",
+                        "display_name": "Isabella Peters",
+                        "orcid": "https://orcid.org/0000-0001-5840-0806"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I2800024560",
+                            "display_name": "ZBW \u2013 Leibniz-Informationszentrum Wirtschaft",
+                            "ror": "https://ror.org/03a96gc12",
+                            "country_code": "DE",
+                            "type": "facility",
+                            "lineage": [
+                                "https://openalex.org/I2800024560",
+                                "https://openalex.org/I315704651"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "DE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Isabella Peters",
+                    "raw_affiliation_strings": [
+                        "ZBW --- German National Library of Economics, Leibniz Information Centre for Economics, Kiel, Germany 24105#TAB#"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "ZBW --- German National Library of Economics, Leibniz Information Centre for Economics, Kiel, Germany 24105#TAB#",
+                            "institution_ids": [
+                                "https://openalex.org/I2800024560"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5001893735",
+                        "display_name": "Judit Bar\u2010Ilan",
+                        "orcid": "https://orcid.org/0000-0002-8796-5248"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I13955877",
+                            "display_name": "Bar-Ilan University",
+                            "ror": "https://ror.org/03kgsv495",
+                            "country_code": "IL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I13955877"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Judit Bar-Ilan",
+                    "raw_affiliation_strings": [
+                        "Department of Information Science, Bar-Ilan University, Ramat Gan, Israel 5290002#TAB#"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Information Science, Bar-Ilan University, Ramat Gan, Israel 5290002#TAB#",
+                            "institution_ids": [
+                                "https://openalex.org/I13955877"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5023888391",
+                        "display_name": "Jason Priem",
+                        "orcid": "https://orcid.org/0000-0001-6187-6610"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I114027177",
+                            "display_name": "University of North Carolina at Chapel Hill",
+                            "ror": "https://ror.org/0130frc33",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I114027177"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "US"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jason Priem",
+                    "raw_affiliation_strings": [
+                        "School of Information and Library Science, University of North Carolina at Chapel Hill, Chapel Hill, USA 3360100#TAB#"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "School of Information and Library Science, University of North Carolina at Chapel Hill, Chapel Hill, USA 3360100#TAB#",
+                            "institution_ids": [
+                                "https://openalex.org/I114027177"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5055957807",
+                        "display_name": "Hadas Shema",
+                        "orcid": "https://orcid.org/0000-0003-0536-1772"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I13955877",
+                            "display_name": "Bar-Ilan University",
+                            "ror": "https://ror.org/03kgsv495",
+                            "country_code": "IL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I13955877"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "IL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Hadas Shema",
+                    "raw_affiliation_strings": [
+                        "Department of Information Science, Bar-Ilan University, Ramat Gan, Israel 5290002#TAB#"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Information Science, Bar-Ilan University, Ramat Gan, Israel 5290002#TAB#",
+                            "institution_ids": [
+                                "https://openalex.org/I13955877"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5007913994",
+                        "display_name": "Jens Terliesner",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I44260953",
+                            "display_name": "Heinrich Heine University D\u00fcsseldorf",
+                            "ror": "https://ror.org/024z2rq82",
+                            "country_code": "DE",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I44260953"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "DE"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jens Terliesner",
+                    "raw_affiliation_strings": [
+                        "Department of Information Science, Heinrich Heine University, Duesseldorf, Germany 40225#TAB#"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Department of Information Science, Heinrich Heine University, Duesseldorf, Germany 40225#TAB#",
+                            "institution_ids": [
+                                "https://openalex.org/I44260953"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "countries_distinct_count": 4,
+            "institutions_distinct_count": 5,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": {
+                "value": 2290,
+                "currency": "EUR",
+                "value_usd": 2890,
+                "provenance": "doaj"
+            },
+            "apc_paid": null,
+            "fwci": 27.739,
+            "has_fulltext": true,
+            "fulltext_origin": "pdf",
+            "cited_by_count": 248,
+            "citation_normalized_percentile": {
+                "value": 0.999772,
+                "is_in_top_1_percent": true,
+                "is_in_top_10_percent": true
+            },
+            "cited_by_percentile_year": {
+                "min": 99,
+                "max": 100
+            },
+            "biblio": {
+                "volume": "101",
+                "issue": "2",
+                "first_page": "1145",
+                "last_page": "1163"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": {
+                "id": "https://openalex.org/T10102",
+                "display_name": "Bibliometric Analysis and Research Evaluation",
+                "score": 0.9994,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1804",
+                    "display_name": "Statistics, Probability and Uncertainty"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/18",
+                    "display_name": "Decision Sciences"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/2",
+                    "display_name": "Social Sciences"
+                }
+            },
+            "topics": [
+                {
+                    "id": "https://openalex.org/T10102",
+                    "display_name": "Bibliometric Analysis and Research Evaluation",
+                    "score": 0.9994,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1804",
+                        "display_name": "Statistics, Probability and Uncertainty"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/18",
+                        "display_name": "Decision Sciences"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/2",
+                        "display_name": "Social Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T13976",
+                    "display_name": "Webometrics Analysis in Academic Research",
+                    "score": 0.9912,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/1710",
+                        "display_name": "Information Systems"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/17",
+                        "display_name": "Computer Science"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                },
+                {
+                    "id": "https://openalex.org/T10064",
+                    "display_name": "Statistical Mechanics of Complex Networks",
+                    "score": 0.9752,
+                    "subfield": {
+                        "id": "https://openalex.org/subfields/3109",
+                        "display_name": "Statistical and Nonlinear Physics"
+                    },
+                    "field": {
+                        "id": "https://openalex.org/fields/31",
+                        "display_name": "Physics and Astronomy"
+                    },
+                    "domain": {
+                        "id": "https://openalex.org/domains/3",
+                        "display_name": "Physical Sciences"
+                    }
+                }
+            ],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/bookmarking",
+                    "display_name": "Bookmarking",
+                    "score": 0.8415303
+                },
+                {
+                    "id": "https://openalex.org/keywords/altmetrics",
+                    "display_name": "Altmetrics",
+                    "score": 0.575979
+                },
+                {
+                    "id": "https://openalex.org/keywords/bibliometric-analysis",
+                    "display_name": "Bibliometric Analysis",
+                    "score": 0.560779
+                },
+                {
+                    "id": "https://openalex.org/keywords/academic-web-impact",
+                    "display_name": "Academic Web Impact",
+                    "score": 0.53785
+                },
+                {
+                    "id": "https://openalex.org/keywords/tracking",
+                    "display_name": "Tracking (education)",
+                    "score": 0.5327727
+                },
+                {
+                    "id": "https://openalex.org/keywords/internet-research",
+                    "display_name": "Internet Research",
+                    "score": 0.506043
+                },
+                {
+                    "id": "https://openalex.org/keywords/download",
+                    "display_name": "Download",
+                    "score": 0.4379566
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C2778407487",
+                    "wikidata": "https://www.wikidata.org/wiki/Q14565201",
+                    "display_name": "Altmetrics",
+                    "level": 2,
+                    "score": 0.9907138
+                },
+                {
+                    "id": "https://openalex.org/C176504155",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4943254",
+                    "display_name": "Bookmarking",
+                    "level": 2,
+                    "score": 0.8415303
+                },
+                {
+                    "id": "https://openalex.org/C518677369",
+                    "wikidata": "https://www.wikidata.org/wiki/Q202833",
+                    "display_name": "Social media",
+                    "level": 2,
+                    "score": 0.8047025
+                },
+                {
+                    "id": "https://openalex.org/C2778805511",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1713",
+                    "display_name": "Citation",
+                    "level": 2,
+                    "score": 0.64366204
+                },
+                {
+                    "id": "https://openalex.org/C2775936607",
+                    "wikidata": "https://www.wikidata.org/wiki/Q466845",
+                    "display_name": "Tracking (education)",
+                    "level": 2,
+                    "score": 0.5327727
+                },
+                {
+                    "id": "https://openalex.org/C83867959",
+                    "wikidata": "https://www.wikidata.org/wiki/Q371467",
+                    "display_name": "Scopus",
+                    "level": 3,
+                    "score": 0.48297492
+                },
+                {
+                    "id": "https://openalex.org/C136764020",
+                    "wikidata": "https://www.wikidata.org/wiki/Q466",
+                    "display_name": "World Wide Web",
+                    "level": 1,
+                    "score": 0.47388476
+                },
+                {
+                    "id": "https://openalex.org/C2780154274",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7126717",
+                    "display_name": "Download",
+                    "level": 2,
+                    "score": 0.4379566
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.4055729
+                },
+                {
+                    "id": "https://openalex.org/C108827166",
+                    "wikidata": "https://www.wikidata.org/wiki/Q175975",
+                    "display_name": "Internet privacy",
+                    "level": 1,
+                    "score": 0.3676476
+                },
+                {
+                    "id": "https://openalex.org/C15744967",
+                    "wikidata": "https://www.wikidata.org/wiki/Q9418",
+                    "display_name": "Psychology",
+                    "level": 0,
+                    "score": 0.32467502
+                },
+                {
+                    "id": "https://openalex.org/C17744445",
+                    "wikidata": "https://www.wikidata.org/wiki/Q36442",
+                    "display_name": "Political science",
+                    "level": 0,
+                    "score": 0.14986339
+                },
+                {
+                    "id": "https://openalex.org/C2779473830",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+                    "display_name": "MEDLINE",
+                    "level": 2,
+                    "score": 0.12879115
+                },
+                {
+                    "id": "https://openalex.org/C19417346",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7922",
+                    "display_name": "Pedagogy",
+                    "level": 1,
+                    "score": 0.0
+                },
+                {
+                    "id": "https://openalex.org/C199539241",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7748",
+                    "display_name": "Law",
+                    "level": 1,
+                    "score": 0.0
+                }
+            ],
+            "mesh": [],
+            "locations_count": 4,
+            "locations": [
+                {
+                    "is_oa": false,
+                    "landing_page_url": "https://doi.org/10.1007/s11192-013-1221-3",
+                    "pdf_url": null,
+                    "source": {
+                        "id": "https://openalex.org/S148561398",
+                        "display_name": "Scientometrics",
+                        "issn_l": "0138-9130",
+                        "issn": [
+                            "0138-9130",
+                            "1588-2861"
+                        ],
+                        "is_oa": false,
+                        "is_in_doaj": false,
+                        "is_core": true,
+                        "host_organization": "https://openalex.org/P4310320108",
+                        "host_organization_name": "Springer Nature (Netherlands)",
+                        "host_organization_lineage": [
+                            "https://openalex.org/P4310319965",
+                            "https://openalex.org/P4310320108"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Springer Nature",
+                            "Springer Nature (Netherlands)"
+                        ],
+                        "type": "journal"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": null,
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "http://hdl.handle.net/11108/158",
+                    "pdf_url": "http://hdl.handle.net/11108/158",
+                    "source": {
+                        "id": "https://openalex.org/S4306402552",
+                        "display_name": "ZBW Publication Archive (ZBW \u2013 Leibniz Information Centre for Economics)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I2800024560",
+                        "host_organization_name": "ZBW \u2013 Leibniz-Informationszentrum Wirtschaft",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I2800024560"
+                        ],
+                        "host_organization_lineage_names": [
+                            "ZBW \u2013 Leibniz-Informationszentrum Wirtschaft"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "acceptedVersion",
+                    "is_accepted": true,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://cdr.lib.unc.edu/downloads/d504rv85k",
+                    "pdf_url": "https://cdr.lib.unc.edu/downloads/d504rv85k",
+                    "source": {
+                        "id": "https://openalex.org/S4306401075",
+                        "display_name": "Carolina Digital Repository (University of North Carolina at Chapel Hill)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I114027177",
+                        "host_organization_name": "University of North Carolina at Chapel Hill",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I114027177"
+                        ],
+                        "host_organization_lineage_names": [
+                            "University of North Carolina at Chapel Hill"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                },
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://arxiv.org/abs/1304.7300",
+                    "pdf_url": "https://arxiv.org/pdf/1304.7300",
+                    "source": {
+                        "id": "https://openalex.org/S4306400194",
+                        "display_name": "arXiv (Cornell University)",
+                        "issn_l": null,
+                        "issn": null,
+                        "is_oa": true,
+                        "is_in_doaj": false,
+                        "is_core": false,
+                        "host_organization": "https://openalex.org/I205783295",
+                        "host_organization_name": "Cornell University",
+                        "host_organization_lineage": [
+                            "https://openalex.org/I205783295"
+                        ],
+                        "host_organization_lineage_names": [
+                            "Cornell University"
+                        ],
+                        "type": "repository"
+                    },
+                    "license": null,
+                    "license_id": null,
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "http://hdl.handle.net/11108/158",
+                "pdf_url": "http://hdl.handle.net/11108/158",
+                "source": {
+                    "id": "https://openalex.org/S4306402552",
+                    "display_name": "ZBW Publication Archive (ZBW \u2013 Leibniz Information Centre for Economics)",
+                    "issn_l": null,
+                    "issn": null,
+                    "is_oa": true,
+                    "is_in_doaj": false,
+                    "is_core": false,
+                    "host_organization": "https://openalex.org/I2800024560",
+                    "host_organization_name": "ZBW \u2013 Leibniz-Informationszentrum Wirtschaft",
+                    "host_organization_lineage": [
+                        "https://openalex.org/I2800024560"
+                    ],
+                    "host_organization_lineage_names": [
+                        "ZBW \u2013 Leibniz-Informationszentrum Wirtschaft"
+                    ],
+                    "type": "repository"
+                },
+                "license": null,
+                "license_id": null,
+                "version": "acceptedVersion",
+                "is_accepted": true,
+                "is_published": false
+            },
+            "sustainable_development_goals": [
+                {
+                    "id": "https://metadata.un.org/sdg/4",
+                    "display_name": "Quality education",
+                    "score": 0.79
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 38,
+            "referenced_works": [
+                "https://openalex.org/W1519117689",
+                "https://openalex.org/W1531607676",
+                "https://openalex.org/W1553564559",
+                "https://openalex.org/W1559646899",
+                "https://openalex.org/W1572136682",
+                "https://openalex.org/W1591703882",
+                "https://openalex.org/W1601133125",
+                "https://openalex.org/W1731700882",
+                "https://openalex.org/W1965964177",
+                "https://openalex.org/W1973816953",
+                "https://openalex.org/W2019945085",
+                "https://openalex.org/W2025321386",
+                "https://openalex.org/W2038032083",
+                "https://openalex.org/W2041540760",
+                "https://openalex.org/W2054174667",
+                "https://openalex.org/W2068517964",
+                "https://openalex.org/W2073023209",
+                "https://openalex.org/W2073784871",
+                "https://openalex.org/W2073938428",
+                "https://openalex.org/W2076872364",
+                "https://openalex.org/W2081116169",
+                "https://openalex.org/W2087255458",
+                "https://openalex.org/W2088858100",
+                "https://openalex.org/W2109249821",
+                "https://openalex.org/W2110875044",
+                "https://openalex.org/W2111418748",
+                "https://openalex.org/W2125281300",
+                "https://openalex.org/W2143612877",
+                "https://openalex.org/W2167465293",
+                "https://openalex.org/W2181126706",
+                "https://openalex.org/W229899568",
+                "https://openalex.org/W2329395632",
+                "https://openalex.org/W2495607178",
+                "https://openalex.org/W2547617692",
+                "https://openalex.org/W3143640170",
+                "https://openalex.org/W3154793279",
+                "https://openalex.org/W4210997956",
+                "https://openalex.org/W4236811854"
+            ],
+            "related_works": [
+                "https://openalex.org/W4301494992",
+                "https://openalex.org/W3168377380",
+                "https://openalex.org/W2949258821",
+                "https://openalex.org/W2899084033",
+                "https://openalex.org/W2748952813",
+                "https://openalex.org/W2613734879",
+                "https://openalex.org/W2414441297",
+                "https://openalex.org/W2357888573",
+                "https://openalex.org/W2171990619",
+                "https://openalex.org/W2038196424"
+            ],
+            "abstract_inverted_index": {
+                "Altmetrics,": [
+                    0
+                ],
+                "indices": [
+                    1,
+                    20
+                ],
+                "based": [
+                    2
+                ],
+                "on": [
+                    3,
+                    72,
+                    182
+                ],
+                "social": [
+                    4,
+                    28,
+                    37,
+                    50,
+                    73,
+                    128,
+                    205
+                ],
+                "media": [
+                    5,
+                    51,
+                    129
+                ],
+                "platforms": [
+                    6,
+                    65
+                ],
+                "and": [
+                    7,
+                    30,
+                    47,
+                    66,
+                    154,
+                    175,
+                    204,
+                    221
+                ],
+                "tools,": [
+                    8
+                ],
+                "have": [
+                    9
+                ],
+                "recently": [
+                    10
+                ],
+                "emerged": [
+                    11
+                ],
+                "as": [
+                    12
+                ],
+                "alternative": [
+                    13
+                ],
+                "means": [
+                    14
+                ],
+                "of": [
+                    15,
+                    49,
+                    56,
+                    63,
+                    69,
+                    82,
+                    118,
+                    124,
+                    138,
+                    145,
+                    160,
+                    164,
+                    229
+                ],
+                "measuring": [
+                    16
+                ],
+                "scholarly": [
+                    17,
+                    33
+                ],
+                "impact.": [
+                    18
+                ],
+                "Such": [
+                    19
+                ],
+                "assume": [
+                    21
+                ],
+                "that": [
+                    22,
+                    127,
+                    211,
+                    222
+                ],
+                "scholars": [
+                    23
+                ],
+                "in": [
+                    24,
+                    35,
+                    90,
+                    99,
+                    195,
+                    199
+                ],
+                "fact": [
+                    25
+                ],
+                "populate": [
+                    26
+                ],
+                "online": [
+                    27,
+                    64,
+                    139,
+                    213
+                ],
+                "environments,": [
+                    29
+                ],
+                "interact": [
+                    31
+                ],
+                "with": [
+                    32,
+                    107
+                ],
+                "products": [
+                    34
+                ],
+                "the": [
+                    36,
+                    45,
+                    67,
+                    116,
+                    119
+                ],
+                "web.": [
+                    38
+                ],
+                "We": [
+                    39,
+                    111
+                ],
+                "tested": [
+                    40
+                ],
+                "this": [
+                    41
+                ],
+                "assumption": [
+                    42
+                ],
+                "by": [
+                    43,
+                    85,
+                    219
+                ],
+                "examining": [
+                    44,
+                    58
+                ],
+                "use": [
+                    46,
+                    62,
+                    68,
+                    218
+                ],
+                "coverage": [
+                    48,
+                    78
+                ],
+                "environments": [
+                    52
+                ],
+                "amongst": [
+                    53
+                ],
+                "a": [
+                    54,
+                    113,
+                    158,
+                    191,
+                    225
+                ],
+                "sample": [
+                    55
+                ],
+                "bibliometricians": [
+                    57,
+                    87,
+                    178
+                ],
+                "both": [
+                    59,
+                    173
+                ],
+                "their": [
+                    60,
+                    70,
+                    133
+                ],
+                "own": [
+                    61
+                ],
+                "papers": [
+                    71
+                ],
+                "reference": [
+                    74,
+                    202
+                ],
+                "managers.": [
+                    75
+                ],
+                "As": [
+                    76
+                ],
+                "expected,": [
+                    77
+                ],
+                "varied:": [
+                    79
+                ],
+                "82": [
+                    80
+                ],
+                "%": [
+                    81,
+                    96,
+                    144,
+                    186
+                ],
+                "articles": [
+                    83
+                ],
+                "published": [
+                    84
+                ],
+                "sampled": [
+                    86
+                ],
+                "were": [
+                    88,
+                    97,
+                    131
+                ],
+                "included": [
+                    89,
+                    98
+                ],
+                "Mendeley": [
+                    91,
+                    101
+                ],
+                "libraries,": [
+                    92
+                ],
+                "while": [
+                    93,
+                    151,
+                    190
+                ],
+                "only": [
+                    94
+                ],
+                "28": [
+                    95
+                ],
+                "CiteULike.": [
+                    100
+                ],
+                "bookmarking": [
+                    102
+                ],
+                "was": [
+                    103
+                ],
+                "moderately": [
+                    104
+                ],
+                "correlated": [
+                    105
+                ],
+                "(.45)": [
+                    106
+                ],
+                "Scopus": [
+                    108
+                ],
+                "citation": [
+                    109
+                ],
+                "counts.": [
+                    110
+                ],
+                "conducted": [
+                    112
+                ],
+                "survey": [
+                    114
+                ],
+                "among": [
+                    115
+                ],
+                "participants": [
+                    117
+                ],
+                "STI2012": [
+                    120
+                ],
+                "participants.": [
+                    121
+                ],
+                "Over": [
+                    122
+                ],
+                "half": [
+                    123,
+                    163
+                ],
+                "respondents": [
+                    125
+                ],
+                "asserted": [
+                    126
+                ],
+                "tools": [
+                    130,
+                    140,
+                    214
+                ],
+                "affecting": [
+                    132
+                ],
+                "professional": [
+                    134
+                ],
+                "lives,": [
+                    135
+                ],
+                "although": [
+                    136
+                ],
+                "uptake": [
+                    137
+                ],
+                "varied": [
+                    141
+                ],
+                "widely.": [
+                    142
+                ],
+                "68": [
+                    143
+                ],
+                "those": [
+                    146,
+                    165
+                ],
+                "surveyed": [
+                    147
+                ],
+                "had": [
+                    148,
+                    167,
+                    179
+                ],
+                "LinkedIn": [
+                    149
+                ],
+                "accounts,": [
+                    150,
+                    169
+                ],
+                "Academia.edu,": [
+                    152
+                ],
+                "Mendeley,": [
+                    153
+                ],
+                "ResearchGate": [
+                    155
+                ],
+                "each": [
+                    156
+                ],
+                "claimed": [
+                    157
+                ],
+                "fifth": [
+                    159
+                ],
+                "respondents.": [
+                    161
+                ],
+                "Nearly": [
+                    162
+                ],
+                "responding": [
+                    166
+                ],
+                "Twitter": [
+                    168
+                ],
+                "which": [
+                    170
+                ],
+                "they": [
+                    171,
+                    223
+                ],
+                "used": [
+                    172
+                ],
+                "personally": [
+                    174
+                ],
+                "professionally.": [
+                    176
+                ],
+                "Surveyed": [
+                    177
+                ],
+                "mixed": [
+                    180
+                ],
+                "opinions": [
+                    181
+                ],
+                "altmetrics'": [
+                    183
+                ],
+                "potential;": [
+                    184
+                ],
+                "72": [
+                    185
+                ],
+                "valued": [
+                    187
+                ],
+                "download": [
+                    188
+                ],
+                "counts,": [
+                    189
+                ],
+                "third": [
+                    192
+                ],
+                "saw": [
+                    193
+                ],
+                "potential": [
+                    194
+                ],
+                "tracking": [
+                    196
+                ],
+                "articles'": [
+                    197
+                ],
+                "influence": [
+                    198
+                ],
+                "blogs,": [
+                    200
+                ],
+                "Wikipedia,": [
+                    201
+                ],
+                "managers,": [
+                    203
+                ],
+                "media.": [
+                    206
+                ],
+                "Altogether,": [
+                    207
+                ],
+                "these": [
+                    208
+                ],
+                "findings": [
+                    209
+                ],
+                "suggest": [
+                    210
+                ],
+                "some": [
+                    212
+                ],
+                "are": [
+                    215
+                ],
+                "seeing": [
+                    216
+                ],
+                "substantial": [
+                    217
+                ],
+                "bibliometricians,": [
+                    220
+                ],
+                "present": [
+                    224
+                ],
+                "potentially": [
+                    226
+                ],
+                "valuable": [
+                    227
+                ],
+                "source": [
+                    228
+                ],
+                "impact": [
+                    230
+                ],
+                "data.": [
+                    231
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2038196424",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 5
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 13
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 14
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 16
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 22
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 30
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 28
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 38
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 31
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 24
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 22
+                },
+                {
+                    "year": 2013,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2012,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-13T01:09:23.318928",
             "created_date": "2016-06-24"
         },
         {
@@ -13618,6 +13622,7 @@
                     ]
                 }
             ],
+            "institution_assertions": [],
             "countries_distinct_count": 1,
             "institutions_distinct_count": 1,
             "corresponding_author_ids": [],
@@ -13626,7 +13631,7 @@
             "apc_paid": null,
             "fwci": null,
             "has_fulltext": false,
-            "cited_by_count": 88,
+            "cited_by_count": 94,
             "citation_normalized_percentile": {
                 "value": 0.99994,
                 "is_in_top_1_percent": true,
@@ -14267,7 +14272,7 @@
                     "cited_by_count": 3
                 }
             ],
-            "updated_date": "2024-09-12T10:19:03.438216",
+            "updated_date": "2024-09-26T12:36:02.205423",
             "created_date": "2022-05-08"
         },
         {
@@ -14367,6 +14372,7 @@
                     ]
                 }
             ],
+            "institution_assertions": [],
             "countries_distinct_count": 1,
             "institutions_distinct_count": 1,
             "corresponding_author_ids": [
@@ -14685,9 +14691,9 @@
             },
             "sustainable_development_goals": [
                 {
-                    "score": 0.5,
                     "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "display_name": "Quality education",
+                    "score": 0.5
                 }
             ],
             "grants": [],
@@ -14831,7 +14837,7 @@
                     "cited_by_count": 21
                 }
             ],
-            "updated_date": "2024-09-09T15:19:12.362430",
+            "updated_date": "2024-09-25T00:36:03.891290",
             "created_date": "2016-06-24"
         },
         {
@@ -15105,6 +15111,7 @@
                     ]
                 }
             ],
+            "institution_assertions": [],
             "countries_distinct_count": 3,
             "institutions_distinct_count": 4,
             "corresponding_author_ids": [],
@@ -15113,7 +15120,7 @@
             "apc_paid": null,
             "fwci": null,
             "has_fulltext": false,
-            "cited_by_count": 147,
+            "cited_by_count": 151,
             "citation_normalized_percentile": {
                 "value": 0.981308,
                 "is_in_top_1_percent": false,
@@ -15836,7 +15843,7 @@
                     "cited_by_count": 3
                 }
             ],
-            "updated_date": "2024-09-08T12:46:29.429510",
+            "updated_date": "2024-09-19T23:08:29.970583",
             "created_date": "2016-06-24"
         },
         {
@@ -16169,15 +16176,15 @@
                     ],
                     "affiliations": [
                         {
-                            "raw_affiliation_string": "FlourishOA",
-                            "institution_ids": []
-                        },
-                        {
                             "raw_affiliation_string": "Information School, University of Washington, Seattle, USA",
                             "institution_ids": [
                                 "https://openalex.org/I201448701",
                                 "https://openalex.org/I58610484"
                             ]
+                        },
+                        {
+                            "raw_affiliation_string": "FlourishOA",
+                            "institution_ids": []
                         }
                     ]
                 },
@@ -16190,16 +16197,6 @@
                     },
                     "institutions": [
                         {
-                            "id": "https://openalex.org/I201448701",
-                            "display_name": "University of Washington",
-                            "ror": "https://ror.org/00cvxb145",
-                            "country_code": "US",
-                            "type": "education",
-                            "lineage": [
-                                "https://openalex.org/I201448701"
-                            ]
-                        },
-                        {
                             "id": "https://openalex.org/I58610484",
                             "display_name": "Seattle University",
                             "ror": "https://ror.org/02jqc0m91",
@@ -16207,6 +16204,16 @@
                             "type": "education",
                             "lineage": [
                                 "https://openalex.org/I58610484"
+                            ]
+                        },
+                        {
+                            "id": "https://openalex.org/I201448701",
+                            "display_name": "University of Washington",
+                            "ror": "https://ror.org/00cvxb145",
+                            "country_code": "US",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I201448701"
                             ]
                         }
                     ],
@@ -16222,8 +16229,8 @@
                         {
                             "raw_affiliation_string": "Information School, University of Washington, Seattle, USA",
                             "institution_ids": [
-                                "https://openalex.org/I201448701",
-                                "https://openalex.org/I58610484"
+                                "https://openalex.org/I58610484",
+                                "https://openalex.org/I201448701"
                             ]
                         }
                     ]
@@ -16283,6 +16290,7 @@
                     ]
                 }
             ],
+            "institution_assertions": [],
             "countries_distinct_count": 3,
             "institutions_distinct_count": 8,
             "corresponding_author_ids": [],
@@ -16291,7 +16299,7 @@
             "apc_paid": null,
             "fwci": null,
             "has_fulltext": false,
-            "cited_by_count": 81,
+            "cited_by_count": 90,
             "citation_normalized_percentile": {
                 "value": 0.997249,
                 "is_in_top_1_percent": true,
@@ -17350,7 +17358,7 @@
                     "cited_by_count": 1
                 }
             ],
-            "updated_date": "2024-09-10T02:12:20.536797",
+            "updated_date": "2024-09-24T10:42:48.787782",
             "created_date": "2022-05-12"
         },
         {
@@ -17515,6 +17523,7 @@
                     ]
                 }
             ],
+            "institution_assertions": [],
             "countries_distinct_count": 1,
             "institutions_distinct_count": 1,
             "corresponding_author_ids": [
@@ -17532,7 +17541,7 @@
             "fwci": null,
             "has_fulltext": true,
             "fulltext_origin": "pdf",
-            "cited_by_count": 78,
+            "cited_by_count": 79,
             "citation_normalized_percentile": {
                 "value": 0.997845,
                 "is_in_top_1_percent": true,
@@ -17809,9 +17818,9 @@
             },
             "sustainable_development_goals": [
                 {
-                    "score": 0.63,
                     "id": "https://metadata.un.org/sdg/9",
-                    "display_name": "Industry, innovation and infrastructure"
+                    "display_name": "Industry, innovation and infrastructure",
+                    "score": 0.63
                 }
             ],
             "grants": [],
@@ -18364,11 +18373,11 @@
                 },
                 {
                     "year": 2022,
-                    "cited_by_count": 15
+                    "cited_by_count": 17
                 },
                 {
                     "year": 2021,
-                    "cited_by_count": 21
+                    "cited_by_count": 20
                 },
                 {
                     "year": 2020,
@@ -18376,10 +18385,10 @@
                 },
                 {
                     "year": 2019,
-                    "cited_by_count": 1
+                    "cited_by_count": 2
                 }
             ],
-            "updated_date": "2024-09-05T06:11:38.460478",
+            "updated_date": "2024-10-01T15:19:28.413565",
             "created_date": "2019-10-18"
         },
         {
@@ -18580,6 +18589,7 @@
                     ]
                 }
             ],
+            "institution_assertions": [],
             "countries_distinct_count": 1,
             "institutions_distinct_count": 2,
             "corresponding_author_ids": [
@@ -18599,7 +18609,7 @@
             "fwci": 23.24,
             "has_fulltext": true,
             "fulltext_origin": "ngrams",
-            "cited_by_count": 111,
+            "cited_by_count": 113,
             "citation_normalized_percentile": {
                 "value": 0.982567,
                 "is_in_top_1_percent": false,
@@ -18917,9 +18927,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
-                    "score": 0.72,
                     "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "display_name": "Quality education",
+                    "score": 0.72
                 }
             ],
             "grants": [],
@@ -19323,7 +19333,7 @@
                     "cited_by_count": 15
                 }
             ],
-            "updated_date": "2024-09-10T21:28:31.300500",
+            "updated_date": "2024-09-25T16:53:22.247848",
             "created_date": "2016-06-24"
         },
         {
@@ -19455,6 +19465,7 @@
                     ]
                 }
             ],
+            "institution_assertions": [],
             "countries_distinct_count": 1,
             "institutions_distinct_count": 2,
             "corresponding_author_ids": [],
@@ -19464,7 +19475,7 @@
             "fwci": 9.931,
             "has_fulltext": true,
             "fulltext_origin": "ngrams",
-            "cited_by_count": 82,
+            "cited_by_count": 85,
             "citation_normalized_percentile": {
                 "value": 0.950897,
                 "is_in_top_1_percent": false,
@@ -19642,9 +19653,9 @@
             },
             "sustainable_development_goals": [
                 {
-                    "score": 0.77,
                     "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "display_name": "Quality education",
+                    "score": 0.77
                 }
             ],
             "grants": [],
@@ -20001,7 +20012,7 @@
                     "cited_by_count": 4
                 }
             ],
-            "updated_date": "2024-08-31T19:37:54.253591",
+            "updated_date": "2024-09-26T21:33:53.247923",
             "created_date": "2016-06-24"
         },
         {
@@ -20136,6 +20147,7 @@
                     ]
                 }
             ],
+            "institution_assertions": [],
             "countries_distinct_count": 1,
             "institutions_distinct_count": 1,
             "corresponding_author_ids": [],
@@ -20155,7 +20167,7 @@
             "fwci": 7.069,
             "has_fulltext": true,
             "fulltext_origin": "pdf",
-            "cited_by_count": 74,
+            "cited_by_count": 75,
             "citation_normalized_percentile": {
                 "value": 0.954957,
                 "is_in_top_1_percent": false,
@@ -20491,9 +20503,9 @@
             },
             "sustainable_development_goals": [
                 {
-                    "score": 0.59,
                     "id": "https://metadata.un.org/sdg/9",
-                    "display_name": "Industry, innovation and infrastructure"
+                    "display_name": "Industry, innovation and infrastructure",
+                    "score": 0.59
                 }
             ],
             "grants": [],
@@ -21128,7 +21140,7 @@
                     "cited_by_count": 7
                 }
             ],
-            "updated_date": "2024-09-13T06:43:57.900162",
+            "updated_date": "2024-09-27T00:25:09.508827",
             "created_date": "2016-06-24"
         },
         {
@@ -21575,6 +21587,7 @@
                     ]
                 }
             ],
+            "institution_assertions": [],
             "countries_distinct_count": 3,
             "institutions_distinct_count": 8,
             "corresponding_author_ids": [],
@@ -21861,7 +21874,7 @@
                 }
             ],
             "mesh": [],
-            "locations_count": 4,
+            "locations_count": 3,
             "locations": [
                 {
                     "is_oa": true,
@@ -21904,35 +21917,7 @@
                 },
                 {
                     "is_oa": true,
-                    "landing_page_url": "https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1143&context=scholcom",
-                    "pdf_url": "https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1143&context=scholcom",
-                    "source": {
-                        "id": "https://openalex.org/S4377196105",
-                        "display_name": "Digital Commons - University of Nebraska Lincoln (University of Nebraska\u2013Lincoln)",
-                        "issn_l": null,
-                        "issn": null,
-                        "is_oa": false,
-                        "is_in_doaj": false,
-                        "is_core": false,
-                        "host_organization": "https://openalex.org/I114395901",
-                        "host_organization_name": "University of Nebraska\u2013Lincoln",
-                        "host_organization_lineage": [
-                            "https://openalex.org/I114395901"
-                        ],
-                        "host_organization_lineage_names": [
-                            "University of Nebraska\u2013Lincoln"
-                        ],
-                        "type": "repository"
-                    },
-                    "license": "cc-by",
-                    "license_id": "https://openalex.org/licenses/cc-by",
-                    "version": "submittedVersion",
-                    "is_accepted": false,
-                    "is_published": false
-                },
-                {
-                    "is_oa": true,
-                    "landing_page_url": "http://hdl.handle.net/1866/23242",
+                    "landing_page_url": "https://hdl.handle.net/1866/23242",
                     "pdf_url": "https://papyrus.bib.umontreal.ca/xmlui/bitstream/1866/23242/1/peerj-06-4375.pdf",
                     "source": {
                         "id": "https://openalex.org/S4306402422",
@@ -22617,8 +22602,458 @@
                     "cited_by_count": 9
                 }
             ],
-            "updated_date": "2024-09-07T02:58:04.449982",
+            "updated_date": "2024-09-23T21:18:32.879925",
             "created_date": "2022-05-12"
+        },
+        {
+            "id": "https://openalex.org/W4391560706",
+            "doi": "https://doi.org/10.59350/89wpz-hpz32",
+            "title": "Introducing the Leiden Ranking Open Edition",
+            "display_name": "Introducing the Leiden Ranking Open Edition",
+            "publication_year": 2024,
+            "publication_date": "2024-01-30",
+            "ids": {
+                "openalex": "https://openalex.org/W4391560706",
+                "doi": "https://doi.org/10.59350/89wpz-hpz32"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.59350/89wpz-hpz32",
+                "pdf_url": null,
+                "source": null,
+                "license": "cc-by",
+                "license_id": "https://openalex.org/licenses/cc-by",
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "preprint",
+            "type_crossref": "posted-content",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "bronze",
+                "oa_url": "https://doi.org/10.59350/89wpz-hpz32",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5027467000",
+                        "display_name": "Ludo Waltman",
+                        "orcid": "https://orcid.org/0000-0001-8249-1752"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ludo Waltman",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5079208483",
+                        "display_name": "Nees Jan van Eck",
+                        "orcid": "https://orcid.org/0000-0001-8448-4521"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I121797337",
+                            "display_name": "Leiden University",
+                            "ror": "https://ror.org/027bh9e22",
+                            "country_code": "NL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I121797337"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "NL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Nees Jan van Eck",
+                    "raw_affiliation_strings": [
+                        "Leiden University"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Leiden University",
+                            "institution_ids": [
+                                "https://openalex.org/I121797337"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5060713442",
+                        "display_name": "Martijn S. Visser",
+                        "orcid": "https://orcid.org/0000-0001-5987-2389"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Martijn Visser",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5093869293",
+                        "display_name": "Mark Neijssel",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Mark Neijssel",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5013301732",
+                        "display_name": "Lucy Montgomery",
+                        "orcid": "https://orcid.org/0000-0001-6551-8140"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Lucy Montgomery",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5048552040",
+                        "display_name": "Cameron Neylon",
+                        "orcid": "https://orcid.org/0000-0002-0068-716X"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Cameron Neylon",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5030014883",
+                        "display_name": "Bianca Kramer",
+                        "orcid": "https://orcid.org/0000-0002-5965-6560"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Bianca Kramer",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5093869294",
+                        "display_name": "Kyle Demes",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Kyle Demes",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5023888391",
+                        "display_name": "Jason Priem",
+                        "orcid": "https://orcid.org/0000-0001-6187-6610"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jason Priem",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": null,
+            "has_fulltext": false,
+            "cited_by_count": 1,
+            "citation_normalized_percentile": null,
+            "cited_by_percentile_year": {
+                "min": 87,
+                "max": 95
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": null,
+            "topics": [],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/cataloging-standards",
+                    "display_name": "Cataloging Standards",
+                    "score": 0.413763
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C189430467",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7293293",
+                    "display_name": "Ranking (information retrieval)",
+                    "level": 2,
+                    "score": 0.90424067
+                },
+                {
+                    "id": "https://openalex.org/C161191863",
+                    "wikidata": "https://www.wikidata.org/wiki/Q199655",
+                    "display_name": "Library science",
+                    "level": 1,
+                    "score": 0.44880724
+                },
+                {
+                    "id": "https://openalex.org/C23123220",
+                    "wikidata": "https://www.wikidata.org/wiki/Q816826",
+                    "display_name": "Information retrieval",
+                    "level": 1,
+                    "score": 0.34598154
+                },
+                {
+                    "id": "https://openalex.org/C2522767166",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+                    "display_name": "Data science",
+                    "level": 1,
+                    "score": 0.33538425
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.3261792
+                },
+                {
+                    "id": "https://openalex.org/C17744445",
+                    "wikidata": "https://www.wikidata.org/wiki/Q36442",
+                    "display_name": "Political science",
+                    "level": 0,
+                    "score": 0.326082
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.59350/89wpz-hpz32",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": "cc-by",
+                    "license_id": "https://openalex.org/licenses/cc-by",
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.59350/89wpz-hpz32",
+                "pdf_url": null,
+                "source": null,
+                "license": "cc-by",
+                "license_id": "https://openalex.org/licenses/cc-by",
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "sustainable_development_goals": [
+                {
+                    "id": "https://metadata.un.org/sdg/4",
+                    "display_name": "Quality education",
+                    "score": 0.7
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W2748952813",
+                "https://openalex.org/W2739821120",
+                "https://openalex.org/W2163901716",
+                "https://openalex.org/W2153069032",
+                "https://openalex.org/W2152204162",
+                "https://openalex.org/W2150136235",
+                "https://openalex.org/W2140661912",
+                "https://openalex.org/W2118564381",
+                "https://openalex.org/W2056806613",
+                "https://openalex.org/W2026095310"
+            ],
+            "abstract_inverted_index": {
+                "When": [
+                    0
+                ],
+                "the": [
+                    1,
+                    7,
+                    25,
+                    28,
+                    31,
+                    36
+                ],
+                "Shanghai": [
+                    2
+                ],
+                "Ranking,": [
+                    3
+                ],
+                "also": [
+                    4
+                ],
+                "known": [
+                    5
+                ],
+                "as": [
+                    6
+                ],
+                "Academic": [
+                    8
+                ],
+                "Ranking": [
+                    9
+                ],
+                "of": [
+                    10,
+                    22
+                ],
+                "World": [
+                    11
+                ],
+                "Universities": [
+                    12
+                ],
+                "(ARWU),": [
+                    13
+                ],
+                "was": [
+                    14
+                ],
+                "launched": [
+                    15
+                ],
+                "in": [
+                    16,
+                    34,
+                    43
+                ],
+                "2003,": [
+                    17
+                ],
+                "Ton": [
+                    18
+                ],
+                "van": [
+                    19
+                ],
+                "Raan,": [
+                    20
+                ],
+                "director": [
+                    21
+                ],
+                "CWTS": [
+                    23
+                ],
+                "at": [
+                    24
+                ],
+                "time,": [
+                    26
+                ],
+                "sounded": [
+                    27
+                ],
+                "alarm": [
+                    29
+                ],
+                "about": [
+                    30
+                ],
+                "problematic": [
+                    32
+                ],
+                "way": [
+                    33
+                ],
+                "which": [
+                    35
+                ],
+                "ranking": [
+                    37
+                ],
+                "uses": [
+                    38
+                ],
+                "bibliometric": [
+                    39
+                ],
+                "data,": [
+                    40
+                ],
+                "for": [
+                    41
+                ],
+                "instance": [
+                    42
+                ],
+                "attributing": [
+                    44
+                ],
+                "publications": [
+                    45
+                ],
+                "to": [
+                    46
+                ],
+                "universities.": [
+                    47
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4391560706",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-19T13:13:11.618196",
+            "created_date": "2024-02-07"
         },
         {
             "id": "https://openalex.org/W2109312864",
@@ -22748,7 +23183,7 @@
                         "US"
                     ],
                     "is_corresponding": false,
-                    "raw_author_name": "Heather A. Piwowar",
+                    "raw_author_name": "Heather Piwowar",
                     "raw_affiliation_strings": [
                         "Heather Piwowar is a cofounder of ImpactStory and a postdoc at the National Evolutionary Synthesis through Duke University, e-mail heather@impactstory.org, and"
                     ],
@@ -22832,7 +23267,7 @@
             "fwci": 12.019,
             "has_fulltext": true,
             "fulltext_origin": "pdf",
-            "cited_by_count": 32,
+            "cited_by_count": 33,
             "citation_normalized_percentile": {
                 "value": 0.966424,
                 "is_in_top_1_percent": false,
@@ -23061,8 +23496,8 @@
                 },
                 {
                     "is_oa": true,
-                    "landing_page_url": "https://arxiv.org/abs/1305.3328",
-                    "pdf_url": "https://arxiv.org/pdf/1305.3328",
+                    "landing_page_url": "http://arxiv.org/abs/1305.3328",
+                    "pdf_url": "http://arxiv.org/pdf/1305.3328",
                     "source": {
                         "id": "https://openalex.org/S4306400194",
                         "display_name": "arXiv (Cornell University)",
@@ -23123,15 +23558,15 @@
             },
             "sustainable_development_goals": [
                 {
-                    "score": 0.86,
                     "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "display_name": "Quality education",
+                    "score": 0.86
                 }
             ],
             "grants": [],
             "datasets": [],
             "versions": [],
-            "referenced_works_count": 8,
+            "referenced_works_count": 7,
             "referenced_works": [
                 "https://openalex.org/W1519117689",
                 "https://openalex.org/W1553564559",
@@ -23139,8 +23574,7 @@
                 "https://openalex.org/W1967562071",
                 "https://openalex.org/W2059275568",
                 "https://openalex.org/W2095972207",
-                "https://openalex.org/W2143612877",
-                "https://openalex.org/W4254036095"
+                "https://openalex.org/W2143612877"
             ],
             "related_works": [
                 "https://openalex.org/W4377088579",
@@ -23486,15 +23920,15 @@
                 },
                 {
                     "year": 2018,
-                    "cited_by_count": 4
+                    "cited_by_count": 3
                 },
                 {
                     "year": 2017,
-                    "cited_by_count": 6
+                    "cited_by_count": 7
                 },
                 {
                     "year": 2016,
-                    "cited_by_count": 4
+                    "cited_by_count": 3
                 },
                 {
                     "year": 2015,
@@ -23502,14 +23936,14 @@
                 },
                 {
                     "year": 2014,
-                    "cited_by_count": 5
+                    "cited_by_count": 6
                 },
                 {
                     "year": 2013,
                     "cited_by_count": 1
                 }
             ],
-            "updated_date": "2024-09-14T15:13:42.404011",
+            "updated_date": "2024-09-30T00:37:52.349589",
             "created_date": "2016-06-24"
         },
         {
@@ -23679,6 +24113,7 @@
                     ]
                 }
             ],
+            "institution_assertions": [],
             "countries_distinct_count": 2,
             "institutions_distinct_count": 5,
             "corresponding_author_ids": [],
@@ -23856,9 +24291,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
-                    "score": 0.86,
                     "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "display_name": "Quality education",
+                    "score": 0.86
                 }
             ],
             "grants": [],
@@ -24218,457 +24653,8 @@
                     "cited_by_count": 1
                 }
             ],
-            "updated_date": "2024-09-11T23:28:44.206232",
+            "updated_date": "2024-09-26T06:41:11.695094",
             "created_date": "2019-06-27"
-        },
-        {
-            "id": "https://openalex.org/W4391560706",
-            "doi": "https://doi.org/10.59350/89wpz-hpz32",
-            "title": "Introducing the Leiden Ranking Open Edition",
-            "display_name": "Introducing the Leiden Ranking Open Edition",
-            "publication_year": 2024,
-            "publication_date": "2024-01-30",
-            "ids": {
-                "openalex": "https://openalex.org/W4391560706",
-                "doi": "https://doi.org/10.59350/89wpz-hpz32"
-            },
-            "language": "en",
-            "primary_location": {
-                "is_oa": true,
-                "landing_page_url": "https://doi.org/10.59350/89wpz-hpz32",
-                "pdf_url": null,
-                "source": null,
-                "license": "cc-by",
-                "license_id": "https://openalex.org/licenses/cc-by",
-                "version": "submittedVersion",
-                "is_accepted": false,
-                "is_published": false
-            },
-            "type": "preprint",
-            "type_crossref": "posted-content",
-            "indexed_in": [
-                "crossref"
-            ],
-            "open_access": {
-                "is_oa": true,
-                "oa_status": "bronze",
-                "oa_url": "https://doi.org/10.59350/89wpz-hpz32",
-                "any_repository_has_fulltext": true
-            },
-            "authorships": [
-                {
-                    "author_position": "first",
-                    "author": {
-                        "id": "https://openalex.org/A5027467000",
-                        "display_name": "Ludo Waltman",
-                        "orcid": "https://orcid.org/0000-0001-8249-1752"
-                    },
-                    "institutions": [],
-                    "countries": [],
-                    "is_corresponding": false,
-                    "raw_author_name": "Ludo Waltman",
-                    "raw_affiliation_strings": [],
-                    "affiliations": []
-                },
-                {
-                    "author_position": "middle",
-                    "author": {
-                        "id": "https://openalex.org/A5079208483",
-                        "display_name": "Nees Jan van Eck",
-                        "orcid": "https://orcid.org/0000-0001-8448-4521"
-                    },
-                    "institutions": [
-                        {
-                            "id": "https://openalex.org/I121797337",
-                            "display_name": "Leiden University",
-                            "ror": "https://ror.org/027bh9e22",
-                            "country_code": "NL",
-                            "type": "education",
-                            "lineage": [
-                                "https://openalex.org/I121797337"
-                            ]
-                        }
-                    ],
-                    "countries": [
-                        "NL"
-                    ],
-                    "is_corresponding": false,
-                    "raw_author_name": "Nees Jan van Eck",
-                    "raw_affiliation_strings": [
-                        "Leiden University"
-                    ],
-                    "affiliations": [
-                        {
-                            "raw_affiliation_string": "Leiden University",
-                            "institution_ids": [
-                                "https://openalex.org/I121797337"
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "author_position": "middle",
-                    "author": {
-                        "id": "https://openalex.org/A5060713442",
-                        "display_name": "Martijn S. Visser",
-                        "orcid": "https://orcid.org/0000-0001-5987-2389"
-                    },
-                    "institutions": [],
-                    "countries": [],
-                    "is_corresponding": false,
-                    "raw_author_name": "Martijn Visser",
-                    "raw_affiliation_strings": [],
-                    "affiliations": []
-                },
-                {
-                    "author_position": "middle",
-                    "author": {
-                        "id": "https://openalex.org/A5093869293",
-                        "display_name": "Mark Neijssel",
-                        "orcid": null
-                    },
-                    "institutions": [],
-                    "countries": [],
-                    "is_corresponding": false,
-                    "raw_author_name": "Mark Neijssel",
-                    "raw_affiliation_strings": [],
-                    "affiliations": []
-                },
-                {
-                    "author_position": "middle",
-                    "author": {
-                        "id": "https://openalex.org/A5013301732",
-                        "display_name": "Lucy Montgomery",
-                        "orcid": "https://orcid.org/0000-0001-6551-8140"
-                    },
-                    "institutions": [],
-                    "countries": [],
-                    "is_corresponding": false,
-                    "raw_author_name": "Lucy Montgomery",
-                    "raw_affiliation_strings": [],
-                    "affiliations": []
-                },
-                {
-                    "author_position": "middle",
-                    "author": {
-                        "id": "https://openalex.org/A5048552040",
-                        "display_name": "Cameron Neylon",
-                        "orcid": "https://orcid.org/0000-0002-0068-716X"
-                    },
-                    "institutions": [],
-                    "countries": [],
-                    "is_corresponding": false,
-                    "raw_author_name": "Cameron Neylon",
-                    "raw_affiliation_strings": [],
-                    "affiliations": []
-                },
-                {
-                    "author_position": "middle",
-                    "author": {
-                        "id": "https://openalex.org/A5030014883",
-                        "display_name": "Bianca Kramer",
-                        "orcid": "https://orcid.org/0000-0002-5965-6560"
-                    },
-                    "institutions": [],
-                    "countries": [],
-                    "is_corresponding": false,
-                    "raw_author_name": "Bianca Kramer",
-                    "raw_affiliation_strings": [],
-                    "affiliations": []
-                },
-                {
-                    "author_position": "middle",
-                    "author": {
-                        "id": "https://openalex.org/A5093869294",
-                        "display_name": "Kyle Demes",
-                        "orcid": null
-                    },
-                    "institutions": [],
-                    "countries": [],
-                    "is_corresponding": false,
-                    "raw_author_name": "Kyle Demes",
-                    "raw_affiliation_strings": [],
-                    "affiliations": []
-                },
-                {
-                    "author_position": "last",
-                    "author": {
-                        "id": "https://openalex.org/A5023888391",
-                        "display_name": "Jason Priem",
-                        "orcid": "https://orcid.org/0000-0001-6187-6610"
-                    },
-                    "institutions": [],
-                    "countries": [],
-                    "is_corresponding": false,
-                    "raw_author_name": "Jason Priem",
-                    "raw_affiliation_strings": [],
-                    "affiliations": []
-                }
-            ],
-            "countries_distinct_count": 1,
-            "institutions_distinct_count": 1,
-            "corresponding_author_ids": [],
-            "corresponding_institution_ids": [],
-            "apc_list": null,
-            "apc_paid": null,
-            "fwci": null,
-            "has_fulltext": false,
-            "cited_by_count": 1,
-            "citation_normalized_percentile": null,
-            "cited_by_percentile_year": {
-                "min": 86,
-                "max": 94
-            },
-            "biblio": {
-                "volume": null,
-                "issue": null,
-                "first_page": null,
-                "last_page": null
-            },
-            "is_retracted": false,
-            "is_paratext": false,
-            "primary_topic": null,
-            "topics": [],
-            "keywords": [
-                {
-                    "id": "https://openalex.org/keywords/cataloging-standards",
-                    "display_name": "Cataloging Standards",
-                    "score": 0.413763
-                }
-            ],
-            "concepts": [
-                {
-                    "id": "https://openalex.org/C189430467",
-                    "wikidata": "https://www.wikidata.org/wiki/Q7293293",
-                    "display_name": "Ranking (information retrieval)",
-                    "level": 2,
-                    "score": 0.90424067
-                },
-                {
-                    "id": "https://openalex.org/C161191863",
-                    "wikidata": "https://www.wikidata.org/wiki/Q199655",
-                    "display_name": "Library science",
-                    "level": 1,
-                    "score": 0.44880724
-                },
-                {
-                    "id": "https://openalex.org/C23123220",
-                    "wikidata": "https://www.wikidata.org/wiki/Q816826",
-                    "display_name": "Information retrieval",
-                    "level": 1,
-                    "score": 0.34598154
-                },
-                {
-                    "id": "https://openalex.org/C2522767166",
-                    "wikidata": "https://www.wikidata.org/wiki/Q2374463",
-                    "display_name": "Data science",
-                    "level": 1,
-                    "score": 0.33538425
-                },
-                {
-                    "id": "https://openalex.org/C41008148",
-                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
-                    "display_name": "Computer science",
-                    "level": 0,
-                    "score": 0.3261792
-                },
-                {
-                    "id": "https://openalex.org/C17744445",
-                    "wikidata": "https://www.wikidata.org/wiki/Q36442",
-                    "display_name": "Political science",
-                    "level": 0,
-                    "score": 0.326082
-                }
-            ],
-            "mesh": [],
-            "locations_count": 1,
-            "locations": [
-                {
-                    "is_oa": true,
-                    "landing_page_url": "https://doi.org/10.59350/89wpz-hpz32",
-                    "pdf_url": null,
-                    "source": null,
-                    "license": "cc-by",
-                    "license_id": "https://openalex.org/licenses/cc-by",
-                    "version": "submittedVersion",
-                    "is_accepted": false,
-                    "is_published": false
-                }
-            ],
-            "best_oa_location": {
-                "is_oa": true,
-                "landing_page_url": "https://doi.org/10.59350/89wpz-hpz32",
-                "pdf_url": null,
-                "source": null,
-                "license": "cc-by",
-                "license_id": "https://openalex.org/licenses/cc-by",
-                "version": "submittedVersion",
-                "is_accepted": false,
-                "is_published": false
-            },
-            "sustainable_development_goals": [
-                {
-                    "score": 0.7,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
-                }
-            ],
-            "grants": [],
-            "datasets": [],
-            "versions": [],
-            "referenced_works_count": 0,
-            "referenced_works": [],
-            "related_works": [
-                "https://openalex.org/W2748952813",
-                "https://openalex.org/W2739821120",
-                "https://openalex.org/W2163901716",
-                "https://openalex.org/W2153069032",
-                "https://openalex.org/W2152204162",
-                "https://openalex.org/W2150136235",
-                "https://openalex.org/W2140661912",
-                "https://openalex.org/W2118564381",
-                "https://openalex.org/W2056806613",
-                "https://openalex.org/W2026095310"
-            ],
-            "abstract_inverted_index": {
-                "When": [
-                    0
-                ],
-                "the": [
-                    1,
-                    7,
-                    25,
-                    28,
-                    31,
-                    36
-                ],
-                "Shanghai": [
-                    2
-                ],
-                "Ranking,": [
-                    3
-                ],
-                "also": [
-                    4
-                ],
-                "known": [
-                    5
-                ],
-                "as": [
-                    6
-                ],
-                "Academic": [
-                    8
-                ],
-                "Ranking": [
-                    9
-                ],
-                "of": [
-                    10,
-                    22
-                ],
-                "World": [
-                    11
-                ],
-                "Universities": [
-                    12
-                ],
-                "(ARWU),": [
-                    13
-                ],
-                "was": [
-                    14
-                ],
-                "launched": [
-                    15
-                ],
-                "in": [
-                    16,
-                    34,
-                    43
-                ],
-                "2003,": [
-                    17
-                ],
-                "Ton": [
-                    18
-                ],
-                "van": [
-                    19
-                ],
-                "Raan,": [
-                    20
-                ],
-                "director": [
-                    21
-                ],
-                "CWTS": [
-                    23
-                ],
-                "at": [
-                    24
-                ],
-                "time,": [
-                    26
-                ],
-                "sounded": [
-                    27
-                ],
-                "alarm": [
-                    29
-                ],
-                "about": [
-                    30
-                ],
-                "problematic": [
-                    32
-                ],
-                "way": [
-                    33
-                ],
-                "which": [
-                    35
-                ],
-                "ranking": [
-                    37
-                ],
-                "uses": [
-                    38
-                ],
-                "bibliometric": [
-                    39
-                ],
-                "data,": [
-                    40
-                ],
-                "for": [
-                    41
-                ],
-                "instance": [
-                    42
-                ],
-                "attributing": [
-                    44
-                ],
-                "publications": [
-                    45
-                ],
-                "to": [
-                    46
-                ],
-                "universities.": [
-                    47
-                ]
-            },
-            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4391560706",
-            "counts_by_year": [
-                {
-                    "year": 2024,
-                    "cited_by_count": 1
-                }
-            ],
-            "updated_date": "2024-09-07T19:39:23.486521",
-            "created_date": "2024-02-07"
         },
         {
             "id": "https://openalex.org/W3208256308",
@@ -25267,9 +25253,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
-                    "score": 0.48,
                     "id": "https://metadata.un.org/sdg/9",
-                    "display_name": "Industry, innovation and infrastructure"
+                    "display_name": "Industry, innovation and infrastructure",
+                    "score": 0.48
                 }
             ],
             "grants": [
@@ -25705,6 +25691,7 @@
                     "affiliations": []
                 }
             ],
+            "institution_assertions": [],
             "countries_distinct_count": 0,
             "institutions_distinct_count": 0,
             "corresponding_author_ids": [],
@@ -25886,7 +25873,7 @@
                     "cited_by_count": 3
                 }
             ],
-            "updated_date": "2024-08-31T04:11:35.770312",
+            "updated_date": "2024-09-26T10:41:49.054021",
             "created_date": "2016-06-24"
         },
         {
@@ -25957,6 +25944,7 @@
                     "affiliations": []
                 }
             ],
+            "institution_assertions": [],
             "countries_distinct_count": 0,
             "institutions_distinct_count": 0,
             "corresponding_author_ids": [
@@ -25967,15 +25955,15 @@
             "apc_paid": null,
             "fwci": null,
             "has_fulltext": false,
-            "cited_by_count": 10,
+            "cited_by_count": 11,
             "citation_normalized_percentile": {
                 "value": 0.827411,
                 "is_in_top_1_percent": false,
                 "is_in_top_10_percent": false
             },
             "cited_by_percentile_year": {
-                "min": 86,
-                "max": 87
+                "min": 87,
+                "max": 88
             },
             "biblio": {
                 "volume": null,
@@ -26252,9 +26240,9 @@
             },
             "sustainable_development_goals": [
                 {
-                    "score": 0.5,
                     "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "display_name": "Quality education",
+                    "score": 0.5
                 }
             ],
             "grants": [],
@@ -26607,7 +26595,7 @@
                     "cited_by_count": 2
                 }
             ],
-            "updated_date": "2024-09-08T06:38:41.990758",
+            "updated_date": "2024-09-19T19:13:55.798487",
             "created_date": "2016-06-24"
         },
         {
@@ -26676,8 +26664,8 @@
                 "is_in_top_10_percent": false
             },
             "cited_by_percentile_year": {
-                "min": 84,
-                "max": 85
+                "min": 83,
+                "max": 84
             },
             "biblio": {
                 "volume": null,
@@ -26877,9 +26865,9 @@
             "best_oa_location": null,
             "sustainable_development_goals": [
                 {
-                    "score": 0.81,
                     "id": "https://metadata.un.org/sdg/10",
-                    "display_name": "Reduced inequalities"
+                    "display_name": "Reduced inequalities",
+                    "score": 0.81
                 }
             ],
             "grants": [],
@@ -27049,11 +27037,11 @@
                 },
                 {
                     "year": 2016,
-                    "cited_by_count": 3
+                    "cited_by_count": 1
                 },
                 {
                     "year": 2015,
-                    "cited_by_count": 1
+                    "cited_by_count": 3
                 },
                 {
                     "year": 2014,
@@ -27068,7 +27056,7 @@
                     "cited_by_count": 1
                 }
             ],
-            "updated_date": "2024-09-17T12:23:39.412768",
+            "updated_date": "2024-09-30T21:04:38.045413",
             "created_date": "2016-06-24"
         },
         {
@@ -27169,6 +27157,7 @@
                     "affiliations": []
                 }
             ],
+            "institution_assertions": [],
             "countries_distinct_count": 0,
             "institutions_distinct_count": 0,
             "corresponding_author_ids": [],
@@ -27182,15 +27171,15 @@
             "apc_paid": null,
             "fwci": 0.808,
             "has_fulltext": false,
-            "cited_by_count": 6,
+            "cited_by_count": 7,
             "citation_normalized_percentile": {
                 "value": 0.723268,
                 "is_in_top_1_percent": false,
                 "is_in_top_10_percent": false
             },
             "cited_by_percentile_year": {
-                "min": 82,
-                "max": 83
+                "min": 83,
+                "max": 84
             },
             "biblio": {
                 "volume": "17",
@@ -27522,9 +27511,9 @@
             },
             "sustainable_development_goals": [
                 {
-                    "score": 0.62,
                     "id": "https://metadata.un.org/sdg/9",
-                    "display_name": "Industry, innovation and infrastructure"
+                    "display_name": "Industry, innovation and infrastructure",
+                    "score": 0.62
                 }
             ],
             "grants": [],
@@ -29799,7 +29788,7 @@
                     "cited_by_count": 3
                 }
             ],
-            "updated_date": "2024-09-12T00:59:53.252811",
+            "updated_date": "2024-09-26T07:30:54.456157",
             "created_date": "2016-06-24"
         },
         {
@@ -30076,6 +30065,7 @@
                     ]
                 }
             ],
+            "institution_assertions": [],
             "countries_distinct_count": 2,
             "institutions_distinct_count": 4,
             "corresponding_author_ids": [],
@@ -30404,9 +30394,9 @@
             },
             "sustainable_development_goals": [
                 {
-                    "score": 0.44,
                     "id": "https://metadata.un.org/sdg/11",
-                    "display_name": "Sustainable cities and communities"
+                    "display_name": "Sustainable cities and communities",
+                    "score": 0.44
                 }
             ],
             "grants": [],
@@ -30579,7 +30569,7 @@
                     "cited_by_count": 1
                 }
             ],
-            "updated_date": "2024-08-28T16:52:30.668430",
+            "updated_date": "2024-09-25T08:27:21.337560",
             "created_date": "2016-06-24"
         }
     ],
