@@ -1,0 +1,544 @@
+,Country Project No.,Project Name,Year,Lender,Allocation (USD),Country,Loan_Type,Amount_Numeric
+0,1,"Luanda Electrical Network Expansion, Phase I",2002,CHEXIM,$15.0M,Angola,Energy,15000000.0
+1,2,Lubango Electricity Network,2002,CHEXIM,$15.0M,Angola,Energy,15000000.0
+2,3,Namibe and Tombowa Electricity,2002,CHEXIM,$25.0M,Angola,Energy,25000000.0
+3,4,"Luanda Electrical Network Rehabilitation and Expansion, Phase II",2004,CHEXIM,$40.1M,Angola,Energy,40100000.0
+4,5,Quifangondo-Mabubas Transmission Line (60kV),2005,CHEXIM,$13.1M,Angola,Energy,13100000.0
+5,6,Capanda-Lucala-Ndalatando Transmission Line (220kV),2005,CHEXIM,$25.4M,Angola,Energy,25400000.0
+6,7,Cambambe-Luanda Transmission Line (220kV),2005,CHEXIM,$34.5M,Angola,Energy,34500000.0
+7,8,Luanda-Sul Substation (220kV),2005,CHEXIM,$26.6M,Angola,Energy,26600000.0
+8,9,"Benguela, Huambo and Bié MT and BT Networks, Part 1 - Huambo",2007,CHEXIM,$123.0M,Angola,Energy,123000000.0
+9,10,"Lubando MT and BT Networks, Phase 2",2007,CHEXIM,$24.5M,Angola,Energy,24500000.0
+10,11,"Rehabilitation and Expansion of LDA's Electrical Network, Phase II",2007,CHEXIM,$7.5M,Angola,Energy,7500000.0
+11,12,"Expansion of the Network of MT, BT and IP in the city of Caxito and Rehabilitation of the Quifangondo-Cazenga Line (Reconstruction of 60Kv Transmission Line and Quif.-Mabubas Substation)",2007,CHEXIM,$31.9M,Angola,Energy,31900000.0
+12,13,"MT and BT Networks, Luanda, Phase 3",2008,CHEXIM,$25.6M,Angola,Energy,25600000.0
+13,14,"MT and BT Networks, Malange, Phase 2",2008,CHEXIM,$26.9M,Angola,Energy,26900000.0
+14,15,"MT and BT Networks, Lundas Sul and Norte, Dundo, Saurimo",2008,CHEXIM,$45.6M,Angola,Energy,45600000.0
+15,16,"MT and BT Networks, Luanda, Phase 4",2008,CHEXIM,$129.6M,Angola,Energy,129600000.0
+16,17,"MT/BT Networks - Lunda-Norte and Lunda-Sul Rehabilitation and Expansion, Phase 1",2009,CHEXIM,$27.3M,Angola,Energy,27300000.0
+17,18,MT and BT Networks of Mbanza Congo Rehabilitation,2010,CHEXIM,$3.7M,Angola,Energy,3700000.0
+18,19,Sonangol Development,2011,CDB,$2.0B,Angola,Energy,2000000000.0
+19,20,Mabubas Hydropower Project Expansion (10MW),2012,CEEC (China Energy Engineering Corporation),$21.8M,Angola,Energy,21800000.0
+20,21,Sonangol Development,2012,CDB,$1000.0M,Angola,Energy,1000000000.0
+21,22,Luachimo Hydropower Project (36MW),2013,ICBC,$180.2M,Angola,Energy,180200000.0
+22,23,Soyo-Kapary Transmission (400kV) and Transformation,2013,CHEXIM,$1.0B,Angola,Energy,1000000000.0
+23,24,Sonangol Development,2013,CDB,$2.5B,Angola,Energy,2500000000.0
+24,25,Menongue Medium and High Voltage Power Grid Construction and Expansion Project,2013,CHEXIM,$50.0M,Angola,Energy,50000000.0
+25,26,Tchihumbwe Hydropower Plant (12MW); 110km Transmission Line (99.6km),2014,CHEXIM,$80.8M,Angola,Energy,80800000.0
+26,27,Sonangol Development; Sonaref Refinery,2014,CDB,$2.0B,Angola,Energy,2000000000.0
+27,28,Lomaum Hydropower Project (65MW),2015,ICBC,$60.0M,Angola,Energy,60000000.0
+28,29,Soyo I Combined Cycle Power Plant Phase I (750MW),2015,ICBC,$837.5M,Angola,Energy,837500000.0
+29,30,"Sonangol Development (Syndicated Loan with Standard Bank, ICBC Portion)",2015,ICBC,$200.0M,Angola,Energy,200000000.0
+30,31,Caculo Cabaca Hydropower Project (2170MW); Transmission Lines,2016,CHEXIM and other Lenders,$3.7B,Angola,Energy,3700000000.0
+31,32,"Huambo City Electrification (17,500 Home Connections)",2016,CDB,$47.3M,Angola,Energy,47300000.0
+32,33,"Luanda Electrification (300,000 Home Connections)",2016,CDB,$531.8M,Angola,Energy,531799999.99999994
+33,34,"Lubango/Matala, Huila Electrification (12,500 Home Connections)",2016,CDB,$47.3M,Angola,Energy,47300000.0
+34,35,"Cabinda City Electrification (20,000 Household Connections)",2016,CDB,$47.3M,Angola,Energy,47300000.0
+35,36,"Electricity Transmission and Transformation, Lauca - Huambo",2016,CDB,$340.0M,Angola,Energy,340000000.0
+36,37,"Electrification, Benguela City (22,800 Household Connections)",2016,CDB,$70.9M,Angola,Energy,70900000.0
+37,38,Sonangol Recapitalization,2016,CDB,$10.0B,Angola,Energy,10000000000.0
+38,39,National Geology Plan Project,2017,CHEXIM,$65.3M,Angola,Energy,65300000.0
+39,40,Electrification and Home Connections in Zaire Province,2018,ICBC and other Lenders,$405.0M,Angola,Energy,405000000.0
+40,1,"Kusile, Medupi Coal Plants (9600MW); Ingula Hydropower Plant (1332MW)",2016,CDB,$500.0M,South Africa,Energy,500000000.0
+41,2,Medupi Coal Plant (4800MW),2017,CDB,$1.5B,South Africa,Energy,1500000000.0
+42,3,Kusile Coal Plant (4800MW),2018,CDB,$2.5B,South Africa,Energy,2500000000.0
+43,1,"Finchaa-Amerti-Neshes (FAN) Hydropower Project (97MW, Loan 1)",2007,CHEXIM,$64.8M,Ethiopia,Energy,64800000.0
+44,2,"Finchaa-Amerti-Neshes (FAN) Hydropower Project (97MW, Loan 2)",2007,CHEXIM,$55.8M,Ethiopia,Energy,55800000.0
+45,3,"Bahir Dar-Debre Markos-Addis Ababa Power Transmission Project (400kV), Lot 3A",2008,CHEXIM,$35.0M,Ethiopia,Energy,35000000.0
+46,4,"Bahir Dar-Debre Markos-Addis Ababa Power Transmission Project (400kV), Lot 2",2008,CHEXIM,$36.9M,Ethiopia,Energy,36900000.0
+47,5,"Bahir Dar-Debre Markos-Addis Ababa Power Transmission Project (400kV), Lot 3B",2008,CHEXIM,$54.9M,Ethiopia,Energy,54900000.0
+48,6,"Bahir Dar-Debre Markos-Addis Ababa Power Transmission Project (400kV), Lot 1",2008,CHEXIM,$64.7M,Ethiopia,Energy,64700000.0
+49,7,Genale-Dawa III Hydropower Plant (254MW),2009,CHEXIM,$270.0M,Ethiopia,Energy,270000000.0
+50,8,Gibe III Hydropower Project 10x187(1870MW) (ICBC loan),2010,ICBC,$425.0M,Ethiopia,Energy,425000000.0
+51,9,Adama Wind Farm Array 1 (51MW),2010,CHEXIM,$99.5M,Ethiopia,Energy,99500000.0
+52,10,"Transmission Lines, Gibe III - Addis Ababa (400kV)",2011,CHEXIM,$188.3M,Ethiopia,Energy,188300000.0
+53,11,"1400 km, Renaissance Dam to Addis Ababa Power Transmission Line and Distribution, 500(kV)",2013,SGCC (State Grid Corporation of China),$1.0B,Ethiopia,Energy,1000000000.0
+54,12,Adama Wind Array 2 (153MW),2013,CHEXIM,$293.3M,Ethiopia,Energy,293300000.0
+55,13,Power Supply System for Addis Ababa Light Rail Transit (AA-LRT),2014,China Electric Power Equipment and Technology,$74.8M,Ethiopia,Energy,74800000.0
+56,14,Ethiopia-Djibouti Railway Transmission Line Power Supply (750km),2015,CHEXIM,$31.0M,Ethiopia,Energy,31000000.0
+57,15,"Transmission Lines and Substation, Genale Dawa III - Yirgalem II - Wolayita Sodo II - Hawassa II (400kV) (355km)",2016,CHEXIM,$249.3M,Ethiopia,Energy,249300000.0
+58,16,"Power Network, Addis Ababa, Rehabilitation and Upgrading",2016,CHEXIM,$172.4M,Ethiopia,Energy,172400000.0
+59,17,"Addis Ababa Gerbi Dam Reservoir, Transmission Line (8.2km) and Treatment Plants",2016,CHEXIM,$139.1M,Ethiopia,Energy,139100000.0
+60,18,Procurement of 7 Mobile Substations,2017,BoC,$18.3M,Ethiopia,Energy,18300000.0
+61,19,Aysha Wind Farm (120MW),2017,CHEXIM,$218.7M,Ethiopia,Energy,218700000.0
+62,20,"Transmission Lines to Bole and Kilinto Industrial Zones, Addis Ababa (230kV) (28.4km); Kilinto and Bole Lemi Plant Substations",2017,CHEXIM,$83.3M,Ethiopia,Energy,83300000.0
+63,1,Kariba North Hydropower Plant (360MW),2008,CHEXIM,$315.6M,Zambia,Energy,315600000.0
+64,2,Chambishi East 330kV/66kV Substation,2009,"China Nonferrous Metal Mining (Group) Co., Ltd. (CNMC) Industrial Zone Development",$11.1M,Zambia,Energy,11100000.0
+65,3,"Transmission Lines, Pensulo - Kasama and Pensulo - Chipata Transmission Lines (330kV, 685km)",2011,ICBC,$285.0M,Zambia,Energy,285000000.0
+66,4,"Lusiwasi Hydropower Plant, Expansion; Lunzua Hydropower Plant, Rehabilitation (86MW)",2013,CHEXIM,$183.2M,Zambia,Energy,183200000.0
+67,5,"Transmission Line, Kariba North-Kafue West (330kV) (120km)",2014,CHEXIM,$45.0M,Zambia,Energy,45000000.0
+68,6,"Musonda Falls Hydropower Upgrade, Bridge Loan 1",2015,Sinohydro Ltd.,$10.0M,Zambia,Energy,10000000.0
+69,7,Mpika Power Supply,2016,ICBC,$29.6M,Zambia,Energy,29600000.0
+70,8,"Musonda Falls Hydropower Upgrade, Bridge Loan 2",2016,Sinohydro Ltd.,$29.0M,Zambia,Energy,29000000.0
+71,9,Musonda Falls Hydro Power Plant rehabilitation and upgrading,2017,ICBC,$35.3M,Zambia,Energy,35300000.0
+72,10,Connection of Lundazi and Chama to the National Grid,2017,ICBC,$22.2M,Zambia,Energy,22200000.0
+73,11,Kafue Gorge Lower Hydropower Plant (750MW),2017,CHEXIM and other Lenders,$1.5B,Zambia,Energy,1500000000.0
+74,12,Kabwe - Pensulo Second Transmission Line (330kV) (300km),2017,CHEXIM,$113.9M,Zambia,Energy,113900000.0
+75,13,Lusiwasi Upper Hydropower (15MW) (Bridging Finance),2018,Chinese Machinery Engineering Corporation (CMEC),$15.0M,Zambia,Energy,15000000.0
+76,14,Kabwe - Pensulo Second Transmission Line (330kV) (Bridging Finance),2018,China Jiangxi Corporation for International Economic and Technical Cooperation (CJIC),$16.9M,Zambia,Energy,16900000.0
+77,15,Kafue Gorge Lower Hydropower Plant 3 Transmission Lines (330kV),2018,ICBC,$195.8M,Zambia,Energy,195800000.0
+78,16,"Kasama – Nakonde, Kasama – Mporokoso and Kasama Kayambi Power Transmission and Substation Project",2018,ICBC,$263.9M,Zambia,Energy,263899999.99999997
+79,1,"El-Jaili (Garri/Qarre) Gas Power Station, Phase I (212MW)",2001,"Harbin Electric Company, Ltd.",$127.5M,Sudan,Energy,127500000.0
+80,2,"Khartoum State Electricity, Equipment and Spare Parts",2002,CHEXIM,$38.6M,Sudan,Energy,38600000.0
+81,3,Khartoum State Electricity,2002,CHEXIM,$12.1M,Sudan,Energy,12100000.0
+82,4,El Gaili-Shendi-Atbara Transmission Line (220kV),2003,"Tebian Electric Apparatus Co., Ltd. (TBEA)",$25.1M,Sudan,Energy,25100000.0
+83,5,"Merowe Hydropower Project (1,250MW)",2003,CHEXIM,$608.0M,Sudan,Energy,608000000.0
+84,6,Merowe Hydropower Project Transmission Lines and Substations,2003,CHEXIM,$381.0M,Sudan,Energy,381000000.0
+85,7,"El Jaili (Garri) Power Plant, Phase II",2004,"Harbin Electric Company, Ltd.",$82.5M,Sudan,Energy,82500000.0
+86,8,"El Jaili (Garri) Power Plant, Phase IV (100MW)",2004,China Machinery Engineering Corporation (CMEC),$129.4M,Sudan,Energy,129400000.0
+87,9,North Khartoum Power Station/Martyr Dr. Mahmoud Sharif Bbhari phase III/Unit D Power Plant Expansion,2005,Chinese Machinery Engineering Corporation (CMEC),$175.0M,Sudan,Energy,175000000.0
+88,10,Purchase of Mini Diesel Power Generators,2005,CIDCA,$3.7M,Sudan,Energy,3700000.0
+89,11,Purchase of Electric Generators (CNEEN Co.),2005,CHEXIM,$5.8M,Sudan,Energy,5800000.0
+90,12,Rabak-Obied Transmission Line (340km),2006,China Machinery Engineering Corporation (CMEC),$81.0M,Sudan,Energy,81000000.0
+91,13,SP-2 Diesel Generator Power Plant,2006,"China National Electric Engineering Co., Ltd. (CNEEC)",$8.1M,Sudan,Energy,8100000.0
+92,14,Rehabilitation of the Electricity Project of the National Capital,2006,CN Gov,$18.1M,Sudan,Energy,18100000.0
+93,15,Solar Energy Project in Northern Kordofan,2006,CDB,$4.6M,Sudan,Energy,4600000.0
+94,16,"Solar Energy Project in Northern Kordofan, Phase II",2007,CN Gov,$6.8M,Sudan,Energy,6800000.0
+95,17,North Khartoum Electrical Substation and Other Substations/Transmission Lines,2008,"Tebian Electric Apparatus Co., Ltd. (TBEA)",$42.7M,Sudan,Energy,42700000.0
+96,18,Al-Fulah Gas Plant (470MW),2009,CHEXIM,$612.0M,Sudan,Energy,612000000.0
+97,19,"Transmission Lines, South Kordofan (630km)",2010,CHEXIM,$232.9M,Sudan,Energy,232900000.0
+98,20,Upper Atbara Hydropower Project (135MW),2011,CN Gov,$105.0M,Sudan,Energy,105000000.0
+99,1,Isimba Falls Hydropower Plant (183MW),2014,CHEXIM,$482.6M,Uganda,Energy,482600000.0
+100,2,"Karuma Falls Hydropower Plant (600MW); Karuma-Kawanda, Karuma-Olwiyo, Karuma-Lira transmission lines (80km) (Preferential Export Buyer's Credit)",2015,CHEXIM,$789.3M,Uganda,Energy,789300000.0
+101,3,"Karuma Falls Hydropower Plant (600MW); Karuma-Kawanda, Karuma-Olwiyo, Karuma-Lira transmission lines (80km) (Export Buyer's Credit)",2015,CHEXIM,$645.8M,Uganda,Energy,645800000.0
+102,4,"Electrical Substations, Luzira, Namanve, Mukono and Iganga Industrial Parks",2016,CHEXIM,$85.0M,Uganda,Energy,85000000.0
+103,5,Bridging the Demand-Supply Gap through Accelerated Rural Electrification Programme (BDSGAREP),2019,CHEXIM,$213.0M,Uganda,Energy,213000000.0
+104,6,"Development of Industrial Parks, Power Supply",2021,ICBC,$178.2M,Uganda,Energy,178200000.0
+105,7,"Electrification of Industrial Parks Phase III (118.5km) Jinja Industrial Park, Njeru, Masese, Kasese Industrial Park, Ishaka Industrial Park",2023,CHEXIM,$211.8M,Uganda,Energy,211800000.0
+106,1,Volta Lake Resettlement Township Electrification Project under the Upper West Electrification Project (USD Seller's Credit),2000,CWE (China International Water & Electric Corporation),$6.4M,Ghana,Energy,6400000.0
+107,2,Volta Lake Resettlement Township Electrification Project under the Upper West Electrification Project (RMB Seller's Credit),2000,CWE (China International Water & Electric Corporation),$19.6M,Ghana,Energy,19600000.0
+108,3,"Upper West Electrification Project, SHEP-4, Phase 1 (Supply and Installation of Equipment)",2006,CWE (China International Water & Electric Corporation),$81.0M,Ghana,Energy,81000000.0
+109,4,"Bui Hydropower Project (400MW) (CL Part, Total 749.6mn)",2007,CHEXIM,$306.0M,Ghana,Energy,306000000.0
+110,5,"Bui Hydropower Project (400MW) (CommL Part, Total 749.6mn)",2007,CHEXIM,$292.0M,Ghana,Energy,292000000.0
+111,6,NES - Upper West Regional Electrification Project,2010,CWE (China International Water & Electric Corporation),$76.5M,Ghana,Energy,76500000.0
+112,7,Upper West Electrification Extension,2012,CWE (China International Water & Electric Corporation),$162.0M,Ghana,Energy,162000000.0
+113,8,Northern Region Rural Electrification,2012,ICBC,$102.0M,Ghana,Energy,102000000.0
+114,9,"Western Corridor Gas Infrastructure Project, Jubilee Oil Field",2012,CDB,$850.0M,Ghana,Energy,850000000.0
+115,10,Bui Hydropower Project (400MW) (Loan 1),2012,CHEXIM,$75.3M,Ghana,Energy,75300000.0
+116,11,Bui Hydropower Project (400MW) (Loan 2),2012,CHEXIM,$76.2M,Ghana,Energy,76200000.0
+117,12,"Rural Electrification Programme CWE - Electrification of 1,033 communities in Ashanti, Brong Ahafo, Eastern, Volta and Western Regions - Phase 1 (495 communities) under Self-Help Electrification Programme (SHEP) Phase V",2016,ICBC,$88.1M,Ghana,Energy,88100000.0
+118,13,Self-Help Electrification Programme (SHEP) in Five Regions HUNAN,2016,ICBC,$85.0M,Ghana,Energy,85000000.0
+119,14,"Electrification of 1,033 communities in Ashanti, Brong Ahafo, Eastern, Volta and Western Regions, Phase 2 (582 communities) under Self-Help Electrification Programme (SHEP) Phase V",2020,ICBC,$95.4M,Ghana,Energy,95400000.0
+120,1,Djibloho Hydropower Project (120MW),2006,CHEXIM,$257.0M,Equatorial Guinea,Energy,257000000.0
+121,2,Djibloho Power Transmission and Transformation Project (1460km Transmission Lines and 32 Substations),2009,CHEXIM,$550.0M,Equatorial Guinea,Energy,550000000.0
+122,3,"Malabo Gas Power Plant, Expansion",2009,CHEXIM,$118.0M,Equatorial Guinea,Energy,118000000.0
+123,4,"Power Grid, Malabo, Phase 2",2009,CHEXIM,$201.3M,Equatorial Guinea,Energy,201300000.0
+124,5,"Power Grid, Bata City, Phase 1",2010,CHEXIM,$300.0M,Equatorial Guinea,Energy,300000000.0
+125,6,"Power Grid, Bata City, Phase 2",2016,CHEXIM,$290.3M,Equatorial Guinea,Energy,290300000.0
+126,7,Akpoga Electricity Infrastructure,2019,CDB,$12.3M,Equatorial Guinea,Energy,12300000.0
+127,8,"High Voltage Electricity Network, Extension and Maintenance",2019,CDB,$83.3M,Equatorial Guinea,Energy,83300000.0
+128,1,"Kenyan Urban Power Grid, Phase I - Chemositsit-Kisii-Meru, 2x132kV Substations, 183 km 132kV & 76km 33kV Power Transmission Lines",2006,CHEXIM,$19.4M,Kenya,Energy,19400000.0
+129,2,"Procurement of Power Lines Material, Loan 1",2007,CHEXIM,$4.9M,Kenya,Energy,4900000.0
+130,3,"Kenya Power Distribution System, Modernization (213km)",2009,CHEXIM,$89.6M,Kenya,Energy,89600000.0
+131,4,"Olkaria IV Geothermal Drilling (140MW, 26 wells)",2010,CHEXIM,$87.5M,Kenya,Energy,87500000.0
+132,5,"Transmission Line, Rabai-Malindi-Garsen-Lamu (572kV) (320km)",2010,CHEXIM,$93.0M,Kenya,Energy,93000000.0
+133,6,Drilling Materials for Olkaria Geothermal Wells,2012,CHEXIM,$367.7M,Kenya,Energy,367700000.0
+134,7,"Transmission Network, Nairobi, Upgrade and Reinforcement, Phase 2 (132kV, 66kV)",2014,CHEXIM,$107.5M,Kenya,Energy,107500000.0
+135,8,Garissa Solar Plant (50MW),2015,CHEXIM,$139.2M,Kenya,Energy,139200000.0
+136,9,Kenya Power Transmission Improvement Project,2017,CN Gov,$85.1M,Kenya,Energy,85100000.0
+137,10,"Nairobi Underground Electric Power Distribution Network (Kileleshwa,Westlands, Parklands)",2017,CHEXIM,$101.3M,Kenya,Energy,101300000.0
+138,11,"Nairobi Underground Electric Power Distribution Network (Kilimani, Hurlingham, Ngong Road)",2017,CHEXIM,$177.5M,Kenya,Energy,177500000.0
+139,12,"Transmission Line, Garsen - Hola - Garrissa",2017,CHEXIM,$86.4M,Kenya,Energy,86400000.0
+140,13,"Transmission Lines, Kamburu - Embu - Kibirigwi - Thika (220kV); Substation (220kV, 132kV); Uplands Substation (132kV, 66kV)",2017,CHEXIM,$90.3M,Kenya,Energy,90300000.0
+141,14,"Transmission Network, Upgrade and Reinforcement, Nairobi City Center (EHV and 66kV)",2017,CHEXIM,$118.5M,Kenya,Energy,118500000.0
+142,15,"Kenya Power Distribution System Modernization Project, Phase II",2017,CHEXIM,$73.5M,Kenya,Energy,73500000.0
+143,16,Kenya Power Transmission Expansion Project,2019,CHEXIM,$83.3M,Kenya,Energy,83300000.0
+144,1,Soubre Hydropower Plant (275MW),2013,CHEXIM,$500.0M,Côte d’Ivoire,Energy,500000000.0
+145,2,"National Power Grid Upgrade, Tranche 1",2015,CHEXIM,$177.4M,Côte d’Ivoire,Energy,177400000.0
+146,3,"National Power Grid Upgrade, Tranche 2",2015,CHEXIM,$592.0M,Côte d’Ivoire,Energy,592000000.0
+147,4,Debt Financing Funding for Société Ivoirienne de Raffinage,2019,ICBC,$13.8M,Côte d’Ivoire,Energy,13800000.0
+148,5,Gribo Popoli Hydropower Project (112MW),2019,CHEXIM,$289.1M,Côte d’Ivoire,Energy,289100000.0
+149,1,Tinkisso Hydropower Project (11MW),2004,CN Gov,$2.0M,Guinea,Energy,2000000.0
+150,2,Kaleta Hydropower Plant (240MW),2013,CHEXIM,$335.0M,Guinea,Energy,335000000.0
+151,3,Souapiti Hydropower Plant (450MW),2018,CHEXIM,$1.2B,Guinea,Energy,1200000000.0
+152,1,"Transformers, Cables, Switch Gears, Phase 1",2003,China National Aero-Technology Import and Export Corporation (CATIC),$22.0M,Zimbabwe,Energy,22000000.0
+153,2,Transmission Transformers,2004,China National Aero-Technology Import and Export Corporation (CATIC),$40.0M,Zimbabwe,Energy,40000000.0
+154,3,Kariba South Hydropower Plant (300MW) (Concessional Loan),2013,CHEXIM,$159.8M,Zimbabwe,Energy,159800000.0
+155,4,Kariba South Hydropower Plant (300MW) (Preferential Export Buyer's Credit),2013,CHEXIM,$159.8M,Zimbabwe,Energy,159800000.0
+156,5,Hwange 3 Coal Plant (600MW),2016,CHEXIM,$997.7M,Zimbabwe,Energy,997700000.0
+157,1,"Ogun State, Papalanto Gas Power Project 335(MW)",2002,SEPCO III (Shandong Electric Power Construction Corporation III),$114.9M,Nigeria,Energy,114900000.0
+158,2,"Ondo State, Omotosho Gas Power Plant Project (335MW)",2002,CMEC (China Machinery Engineering Corporation),$114.8M,Nigeria,Energy,114800000.0
+159,3,Zungeru Hydropower Plant (700MW),2013,CHEXIM,$984.3M,Nigeria,Energy,984300000.0
+160,1,"Tanzania Petroleum Development Corporation (TPDC) Natural Gas Processing Plants; Pipeline, Mnazi Bay - Dar es Salaam - Mtwara Province (432km) (Preferential Export Buyer's Credit)",2012,CHEXIM,$920.0M,Tanzania,Energy,920000000.0
+161,2,"Tanzania Petroleum Development Corporation (TPDC) Natural Gas Processing Plants; Pipeline, Mnazi Bay - Dar es Salaam - Mtwara Province (432km) (Export Buyer's Credit)",2012,CHEXIM,$275.0M,Tanzania,Energy,275000000.0
+162,1,Zongo II Hydropower Plant (150MW),2011,CHEXIM,$360.0M,"Congo, Democratic Republic of the",Energy,360000000.0
+163,2,Busanga Hydropower Project (240MW),2015,CHEXIM,$509.4M,"Congo, Democratic Republic of the",Energy,509400000.0
+164,3,"Study, Supply and Installation Contract for 5,000 Solar Poles and Accessories",2016,CHEXIM,$10.0M,"Congo, Democratic Republic of the",Energy,10000000.0
+165,4,"Substation and Associated Distribution Networks, Kinsuka (220kV)",2018,CHEXIM,$299.0M,"Congo, Democratic Republic of the",Energy,299000000.0
+166,1,Mekin Hydropower Plant (15MW),2010,CHEXIM,$44.5M,Cameroon,Energy,44500000.0
+167,2,Memve'ele Hydropower Plant (211MW),2011,CHEXIM,$541.6M,Cameroon,Energy,541600000.0
+168,3,Djoum Solar Plant (0.5MW),2015,BoC,$90.1M,Cameroon,Energy,90100000.0
+169,4,"Photovoltaic System, Electrification of 350 Communities, Phase II (184 Communities)",2017,BoC,$123.3M,Cameroon,Energy,123300000.0
+170,5,"Transmission Lines, Memve'ele - Ebolowa Hydropower Plant (225kV)",2017,CHEXIM,$141.8M,Cameroon,Energy,141800000.0
+171,6,"Transmission Lines, Ebolowa-Kribi (225kV) and Mbalmayo-Mekin (90kV)",2019,BoC,$59.3M,Cameroon,Energy,59300000.0
+172,1,Imboulou Hydropower Station (120MW),2003,CMEC (China Machinery Engineering Corporation),$238.0M,"Congo, Republic of the",Energy,238000000.0
+173,2,Transmission Network from Imboulou Hydropower: 220kV (780km); 110kV (91km); 20kV & 30kV (350km),2005,CMEC (China Machinery Engineering Corporation),$551.5M,"Congo, Republic of the",Energy,551500000.0
+174,3,Liouesso Hydropower Plant (19.5MW),2013,CHEXIM,$96.4M,"Congo, Republic of the",Energy,96400000.0
+175,4,"Transmission Line, Liouesso Hydropower Plant - Ouesso-North (110kV, 74km)",2013,CHEXIM,$32.6M,"Congo, Republic of the",Energy,32600000.0
+176,1,Morupule B Coal-Fired Power Station Expansion Project (600MW),2009,ICBC,$825.0M,Botswana,Energy,825000000.0
+177,1,"Transmission Line (500kV, 1210km) (CHEXIM and ICBC Part, Total $690m)",2017,CHEXIM and other Lenders,$459.0M,Egypt,Energy,459000000.0
+178,2,"Transmission Line Project (500kV, 1210km) (CDB Part, Total $690m)",2017,CDB,$231.0M,Egypt,Energy,231000000.0
+179,1,Grand Poubara Hydropower Plant (160MW) (PEBC),2008,CHEXIM,$300.0M,Gabon,Energy,300000000.0
+180,2,Grand Poubara Hydropower Plant (160MW) (Concessional Loan),2008,CHEXIM,$70.0M,Gabon,Energy,70000000.0
+181,3,"Power Grid, Libreville, Upgrade",2011,CHEXIM,$131.6M,Gabon,Energy,131600000.0
+182,4,"Chutes de l’Impératrice Eugenie Hydropower Plant, Fougamou, Ngounie River (88MW)",2018,CHEXIM,$3.1M,Gabon,Energy,3100000.0
+183,1,OMVS: Koukoutamba Hydroelectric Project (294MW); 600km Koukoutamba-Conarky & Koukoutamba-Manantali Transmission Lines (225kV),2013,CHEXIM,$458.4M,Regional,Energy,458400000.0
+184,1,Emergency Rural Electrification Program (Electrical Distribution Network Rehabilitation),2005,CIDCA,$50.0M,Senegal,Energy,50000000.0
+185,2,"28km Dakar Loop Power Transmission Projects, (4x90kV)), Phase I",2007,CHEXIM,$48.6M,Senegal,Energy,48600000.0
+186,3,"Dakar Loop Power Transmission Projects, Phase 2 (360kV) (28km)",2010,CHEXIM,$75.8M,Senegal,Energy,75800000.0
+187,4,Boucle de Dakar Electricity Network Supplementary Phase,2013,CN Gov,$16.2M,Senegal,Energy,16200000.0
+188,5,Mali Gouina Hydropower Project (140MW) (Senegal finance),2013,CHEXIM,$138.3M,Senegal,Energy,138300000.0
+189,1,Jerada Coal Plant (350MW),2014,CHEXIM,$304.5M,Morocco,Energy,304500000.0
+190,1,"Ranomafana Hydropower Plant, Ikopa River (64MW)",2023,CHEXIM,$240.0M,Madagascar,Energy,240000000.0
+191,1,Nyabarongo 2 Hydropower Plant (43.5MW); Transmission Line (110kV),2020,CHEXIM,$214.0M,Rwanda,Energy,214000000.0
+192,1,Azelik Uranium Mine,2011,CHEXIM,$100.6M,Niger,Energy,100600000.0
+193,2,SORAZ-Zinder et Maradi-Malbaza Transmission Line (132kV) (259km),2013,CHEXIM,$74.7M,Niger,Energy,74700000.0
+194,1,Gouina Hydropower Project (140MW),2013,CHEXIM,$145.0M,Mali,Energy,145000000.0
+195,1,Mali Gouina Hydropower Project (140MW) (Mauritania finance),2013,CHEXIM,$138.3M,Mauritania,Energy,138300000.0
+196,1,"Ring Transmission Line, N'Djamena (90kV); N'Djamena - Djarmaya Refinery Transmission Line (60kV)",2012,CHEXIM,$130.0M,Chad,Energy,130000000.0
+197,1,"Electric Transformer Station, Sokode",2013,CHEXIM,$24.0M,Togo,Energy,24000000.0
+198,2,Lome and Inland Cities Network Reinforcement and Expansion,2013,CHEXIM,$33.9M,Togo,Energy,33900000.0
+199,3,"Public Solar Street Light/Lamp Project, Phases 1, 2",2014,CHEXIM,$55.0M,Togo,Energy,55000000.0
+200,1,Hirgigo Oil Plant (48MW),2014,CHEXIM,$98.0M,Eritrea,Energy,98000000.0
+201,1,Ramarothole Solar Plant (70MW),2020,CHEXIM,$66.8M,Lesotho,Energy,66800000.0
+202,1,Donsin Solar Power Plant (25MW),2023,CHEXIM,$50.1M,Burkina Faso,Energy,50100000.0
+203,1,Boali No.3 Hydropower Project (10MW),2010,CIDCA,$17.7M,Central African Republic,Energy,17700000.0
+204,2,Sakai Solar Photovoltaic Power Plant (15MW),2019,CIDCA,$29.0M,Central African Republic,Energy,29000000.0
+205,1,"Addis-Djibouti Railway Electrification, Nagad-HollHoll-AliSabieh (90km)",2016,CHEXIM,$20.4M,Djibouti,Energy,20400000.0
+206,1,Financing for Central Electricity Board,2011,CHEXIM,$5.8M,Mauritius,Energy,5800000.0
+207,1,"Luanda Railway, Rehabilitation, Phase I, Luanda-Malanje, (444km)",2002,CHEXIM,$90.0M,Angola,Transportation,90000000.0
+208,2,Road Transport Support,2004,CHEXIM,$12.5M,Angola,Transportation,12500000.0
+209,3,"Benguela Railway, Huambo Railway (1344km)",2004,CHEXIM,$362.3M,Angola,Transportation,362300000.0
+210,4,Kifangondo-Caxito-Uíge-Negage Road (371km),2005,CHEXIM,$191.0M,Angola,Transportation,191000000.0
+211,5,"Caxito-Nzeto Road, Rehabilitation (208km)",2007,CHEXIM,$618.9M,Angola,Transportation,618900000.0
+212,6,"Purchase of Cars, Phase II (1500 Units)",2007,CHEXIM,$47.3M,Angola,Transportation,47300000.0
+213,7,Purchase of Railroad Equipment,2007,CHEXIM,$55.8M,Angola,Transportation,55800000.0
+214,8,"Purchase of Luanda, Benguela, Huambo, Uige, Malange Urban Public Transit Vehicles (5,500 Units)",2007,CHEXIM,$396.0M,Angola,Transportation,396000000.0
+215,9,"Rehabilitation of the Streets in the Cities of Caxito (20km), Uíge (22km), Negage (10km)",2007,CHEXIM,$82.6M,Angola,Transportation,82600000.0
+216,10,Cabinda Province to Zaire Province Road,2007,CHEXIM,$3.0M,Angola,Transportation,3000000.0
+217,11,"Lobito Port Rehabilitation Phases 2 and 3, Container Port and Mineral Port 2013 disbursements",2008,CHEXIM,$621.0M,Angola,Transportation,621000000.0
+218,12,"Angola Railway Workshop, Rehabilitation and Modernization",2009,CHEXIM,$99.3M,Angola,Transportation,99300000.0
+219,13,"Luanda-Soyo Highway, Nzeto-Soyo, Rehabilitation (144km)",2009,CHEXIM,$100.8M,Angola,Transportation,100800000.0
+220,14,"Luanda-Soyo Highway, Bridge over M'Bridge River, Package 4",2009,CHEXIM,$63.0M,Angola,Transportation,63000000.0
+221,15,"Luanda-Soyo Highway, km8-km104, Package 5",2009,CHEXIM,$55.5M,Angola,Transportation,55500000.0
+222,16,"Saurimo Airport Aerogare, Construction",2010,CHEXIM,$27.7M,Angola,Transportation,27700000.0
+223,17,Purchase of Catamaran Boats (4 Units),2010,CHEXIM,$71.8M,Angola,Transportation,71800000.0
+224,18,Purchase of Railway Rolling Stock,2010,CHEXIM,$88.1M,Angola,Transportation,88100000.0
+225,19,Purchase of Cars (1500 Units),2011,CHEXIM,$25.6M,Angola,Transportation,25600000.0
+226,20,"Luanda-Soyo Highway, km104-km149, Package 6",2011,CHEXIM,$46.8M,Angola,Transportation,46800000.0
+227,21,"Luanda-Soyo Highway, Nzeto-Soyo, Bridges, Package 7",2011,CHEXIM,$46.8M,Angola,Transportation,46800000.0
+228,22,"Camama Road Infrastrcture, Disbursement 1",2011,CDB,$86.2M,Angola,Transportation,86200000.0
+229,23,"Camama Road Infrastrcture, Disbursement 2",2011,CDB,$30.9M,Angola,Transportation,30900000.0
+230,24,"Camama Road Infrastrcture, Disbursement 3",2012,CDB,$54.5M,Angola,Transportation,54500000.0
+231,25,"Dundo/Chitato/Lunda Norte Roads, Asphalting",2012,CDB,$10.1M,Angola,Transportation,10100000.0
+232,26,"Nharea, Bie Road Rehabilitation (12km)",2015,CDB,$19.9M,Angola,Transportation,19900000.0
+233,27,Nzeto-Soyo Road,2015,CHEXIM,$509.4M,Angola,Transportation,509400000.0
+234,28,"Caio Port, Cabinda; Sinosure Premium",2016,CHEXIM,$758.7M,Angola,Transportation,758700000.0
+235,29,"EN110 and 280; Caconda - Chicomba - Desvio de Quipungo, Huila, Rehabilitation, Phase 1",2016,CDB,$50.0M,Angola,Transportation,50000000.0
+236,30,"EN110 and 280; Caconda - Rio Ngalo, Huila, Rehabilitation, Phase 2",2016,CDB,$46.1M,Angola,Transportation,46100000.0
+237,31,"Lunda-Sul Road Rehabilitation, Xinge-Lubalo Connection",2016,CDB,$50.5M,Angola,Transportation,50500000.0
+238,32,"EN120, Cuanza Sul, Alto Dondo - Keve River, São Mamede - Waco Kungo, Rehabilitation, Lot 4 (57.5km)",2016,CDB,$47.9M,Angola,Transportation,47900000.0
+239,33,"EN100, Luanda, Rehabilitation, Part 1",2016,CDB,$30.1M,Angola,Transportation,30100000.0
+240,34,"EN100, Cuanza Sul, Cabo Ledo-Lobito Road, Ponte do Rio Longa - Ponte do Rio Keve, Rehabilitation, Lot 2",2016,CDB,$33.9M,Angola,Transportation,33900000.0
+241,35,"EN100, Cuanza Sul, Cabo Ledo-Lobito Road, Sumbe - Ponte do Rio Eval, Rehabilitation, Lot 4",2016,CDB,$49.7M,Angola,Transportation,49700000.0
+242,36,"EN100, Benguela, Cabo Ledo-Lobito Road, Ponte do Rio Eval - Ponte do Rio Culango, Rehabilitation, Lot 5",2016,CDB,$31.3M,Angola,Transportation,31300000.0
+243,37,"EN120, Cuanza Sul, Rehabilitation, Part 2",2016,CDB,$40.8M,Angola,Transportation,40800000.0
+244,38,"EN120, Cuanza Sul, Alto Dondo - Keve River, Waco Kungo - Keve River, Rehabilitation, Lot 5 (31.1km)",2016,CDB,$19.8M,Angola,Transportation,19800000.0
+245,39,"EN230 Road, Lucala - Malage - Saurimo - Intersection to EN322, Lot 1",2016,CDB,$49.4M,Angola,Transportation,49400000.0
+246,40,"EN230, Cacuso - Malange, Lot 2 (68.8km)",2016,CDB,$52.6M,Angola,Transportation,52600000.0
+247,41,"EN321, Maria Teresa - Dondo, Rehabilitation (61km)",2016,CDB,$60.4M,Angola,Transportation,60400000.0
+248,42,"Cuanza Sul, EC247 Road Rehabilitation, EN120-Cassongue Connection (37km)",2016,CDB,$26.7M,Angola,Transportation,26700000.0
+249,43,"Rua 12 de Julho Road, Sambizanga, Luanda",2016,CDB,$12.4M,Angola,Transportation,12400000.0
+250,44,"Tala Mungongo - Mussolo - Cambundi Catembo Road, Malanje, Rehabilitation (290km)",2016,CDB,$46.4M,Angola,Transportation,46400000.0
+251,45,"Airport Terminals, Cuito, Bie",2016,CDB,$38.3M,Angola,Transportation,38300000.0
+252,46,"Cabinda Airport, Expansion",2016,CDB,$157.3M,Angola,Transportation,157300000.0
+253,47,"Soyo City River and Land Terminal, Construction",2016,CDB,$203.1M,Angola,Transportation,203100000.0
+254,48,"Marine Passenger Terminal, Cabinda",2016,CDB,$59.5M,Angola,Transportation,59500000.0
+255,49,"EN100 Road Rehabilitation, Part 3",2016,CDB,$55.8M,Angola,Transportation,55800000.0
+256,50,"EN100, Benguela, Rehabilitation, Lot 6 (39km)",2016,CDB,$23.4M,Angola,Transportation,23400000.0
+257,51,"EN120, Cuanza Sul, Alto Dondo - Keve River, Quimone River - São Mamede River, Rehabilitation, Lot 3 (57.5km)",2016,CDB,$37.6M,Angola,Transportation,37600000.0
+258,52,"EN120, Alto Dondo-Desvio da Munenga, Rehabilitation, Lot 1 (46km)",2016,CDB,$43.0M,Angola,Transportation,43000000.0
+259,53,"N´Gola Kiluange Road, Luanda, Rehabilitation (35.9km)",2016,CDB,$30.7M,Angola,Transportation,30700000.0
+260,54,"Patriota-Talatona; Rua da Brigada; Rua D no Benfica; Rua Soba Mandume; Ramal do Bom Jesus Roads, Luanda Province, Rehabilitation",2016,CDB,$26.4M,Angola,Transportation,26400000.0
+261,55,"EN110 Road, Gabela - Quilenda, Cuanza Sul, Rehabilitation (35km)",2016,CDB,$23.2M,Angola,Transportation,23200000.0
+262,56,"Road Rehabilitation, Cuito, Bie (15km)",2016,CDB,$17.9M,Angola,Transportation,17900000.0
+263,57,"Mussolo - Dumba Cabango Road, Malanje, Rehabilitation (43km)",2016,CDB,$28.8M,Angola,Transportation,28800000.0
+264,58,"Uige - Calumbo - Dambi - Negage Road, Uige, Rehabilitation (37.5km)",2016,CDB,$25.2M,Angola,Transportation,25200000.0
+265,59,"Huambo, Catchiungo-Chinhama Road, Rehabilitation (65km)",2016,CDB,$49.7M,Angola,Transportation,49700000.0
+266,60,"Quitexe-Ambuíla Road, Uige, Rehabilitation",2016,CDB,$47.4M,Angola,Transportation,47400000.0
+267,61,"Alto Dondo - Capanda Road, São Pedro da Quilemba - Alto Dondo, Cuanza Norte, Rehabilitation (48km)",2016,CDB,$30.1M,Angola,Transportation,30100000.0
+268,62,"Caculama - Tala Mungongo Road, Malanje",2016,CDB,$28.5M,Angola,Transportation,28500000.0
+269,63,"Cabolongo-Cacuaco Expressway, Connection to the Camama Road with Access to Zango and Central Kilamba, Rehabilitation",2016,CDB,$188.8M,Angola,Transportation,188800000.0
+270,64,"EN230, with Connection to the Unidade Operativa Overpass; Luanda-Viana VIA Expressway, Rehabilitation",2016,CDB,$155.6M,Angola,Transportation,155600000.0
+271,65,"EN230, Viana - New Luanda/Catete International Airport, Rehabilitation",2016,CDB,$244.8M,Angola,Transportation,244800000.0
+272,66,"Cruzamento - Cassongue Road, Rehabilitation",2016,CDB,$26.7M,Angola,Transportation,26700000.0
+273,67,"Angolan Railway Companies, Training Centers and Equipment, Luanda (CFL), Benguela (CFB), Moçâmedes",2016,CHEXIM,$39.2M,Angola,Transportation,39200000.0
+274,68,"Luanda Railway, Bungo - Baia, Duplication (36km)",2016,CDB,$51.1M,Angola,Transportation,51100000.0
+275,69,Railway Connection for the New Luanda International Airport to Luanda City (17.4km),2017,BoC,$150.0M,Angola,Transportation,150000000.0
+276,70,Namibe Province Urban Roads - Mocamedes Rehabilitation,2017,CDB,$18.5M,Angola,Transportation,18500000.0
+277,1,"Railway Modernisation, Idu - Kaduna, Project 1 (187km)",2010,CHEXIM,$500.0M,Nigeria,Transportation,500000000.0
+278,2,Abuja Light Rail Project (78km),2012,CHEXIM,$500.0M,Nigeria,Transportation,500000000.0
+279,3,Airport Expansion (4 Terminals),2013,CHEXIM,$500.0M,Nigeria,Transportation,500000000.0
+280,4,"Lagos-Ibadan Railway, Modernisation, Project 2",2017,CHEXIM,$1.3B,Nigeria,Transportation,1300000000.0
+281,5,"Abuja-Keffi-Makurdi Road, Rehabilitation and Upgrade (227km)",2017,CHEXIM,$460.8M,Nigeria,Transportation,460800000.0
+282,6,Lafia Bypass Road and Dualization of 9th Mile (Enugu) - Otukpo - Makurdi Road (268.5km),2017,CHEXIM,$845.8M,Nigeria,Transportation,845800000.0
+283,7,"Rolling Stocks and Depot Equipment Purchase, Abuja Light Rail",2018,CHEXIM,$157.0M,Nigeria,Transportation,157000000.0
+284,8,Lekki Deep Water Port,2019,CDB,$629.0M,Nigeria,Transportation,629000000.0
+285,9,"Airport Expansion (4 Terminals), Incremental Project",2019,CHEXIM,$208.9M,Nigeria,Transportation,208900000.0
+286,10,"Airport Expansion (4 Terminals), Ancillary Project",2019,CHEXIM,$183.6M,Nigeria,Transportation,183600000.0
+287,11,"Lagos-Kano Railway (1400km), Kaduna-Kano Section (200km)",2023,CDB,$973.0M,Nigeria,Transportation,973000000.0
+288,1,"Kipsigak-Serem-Shamakhokho Road, 54(km), Loan 2",2001,CIDCA,$6.0M,Kenya,Transportation,6000000.0
+289,2,"Kipsigak-Serem-Shamakhokho Road, 54(km), Loan 3",2002,CIDCA,$6.0M,Kenya,Transportation,6000000.0
+290,3,Nairobi Eastern and Northern Bypass Highway (Nairobi Ring Road) (72km),2008,CHEXIM,$104.4M,Kenya,Transportation,104400000.0
+291,4,Nairobi-Thika Highway (50km),2009,CHEXIM,$150.2M,Kenya,Transportation,150200000.0
+292,5,Nairobi Southern Bypass,2011,CHEXIM,$176.5M,Kenya,Transportation,176500000.0
+293,6,"SGR, Mombasa - Nairobi, Phase 1 (472.3km) (Commercial Loan)",2014,CHEXIM,$2.0B,Kenya,Transportation,2000000000.0
+294,7,"SGR, Mombasa - Nairobi, Phase 1 (472.3km) (Concessional Loan)",2014,CHEXIM,$1.6B,Kenya,Transportation,1600000000.0
+295,8,"SGR, Nairobi - Naivasha, Phase 2 Sub-Phase 1 (120.4km)",2015,CHEXIM,$1.4B,Kenya,Transportation,1400000000.0
+296,9,"Kibwezi-Mutomo-Kitui Road Upgrade, Phase 1 (472km)",2016,CHEXIM,$194.7M,Kenya,Transportation,194700000.0
+297,10,"Nairobi Inland Container Depot and Access Roads, Construction",2017,CHEXIM,$181.9M,Kenya,Transportation,181900000.0
+298,11,"Nairobi Western Bypass Road, Construction (16.8km)",2018,CHEXIM,$179.8M,Kenya,Transportation,179800000.0
+299,1,Addis Ababa Ring Road (33.4km),2001,CIDCA,$12.0M,Ethiopia,Transportation,12000000.0
+300,2,Gotera Interchange Project (8km),2006,CIDCA,$12.6M,Ethiopia,Transportation,12600000.0
+301,3,Addis Ababa Road and Two Bridges,2006,CIDCA,$6.0M,Ethiopia,Transportation,6000000.0
+302,4,"Addis-Adama Expressway, Phase 1 (80km)",2009,CHEXIM,$349.0M,Ethiopia,Transportation,349000000.0
+303,5,Meskere Sq-Bole Road (4.3km),2011,CHEXIM,$68.3M,Ethiopia,Transportation,68300000.0
+304,6,Addis-Ababa Light Rail (17.35km),2011,CHEXIM,$403.8M,Ethiopia,Transportation,403800000.0
+305,7,Freight Ships Purchase (9 Units),2011,CHEXIM,$235.0M,Ethiopia,Transportation,235000000.0
+306,8,Major Maintenance Hangar,2012,CHEXIM,$100.0M,Ethiopia,Transportation,100000000.0
+307,9,Pushkin Square - Gottera Square/Bole Airport Road (4.3km),2013,CIDCA,$58.1M,Ethiopia,Transportation,58100000.0
+308,10,"Addis-Djibouti Railway (656km), Tranche A",2013,CHEXIM,$220.0M,Ethiopia,Transportation,220000000.0
+309,11,"Addis-Djibouti Railway (656km), Tranche B",2013,CHEXIM,$981.0M,Ethiopia,Transportation,981000000.0
+310,12,"Addis-Djibouti Railway (656km), Tranche C",2013,CHEXIM,$1.3B,Ethiopia,Transportation,1300000000.0
+311,13,"Addis-Adama Expressway, Toll Montovay, Phase 2 (28km)",2013,CHEXIM,$143.0M,Ethiopia,Transportation,143000000.0
+312,14,"Bole Airport, Expansion",2013,CHEXIM,$233.9M,Ethiopia,Transportation,233900000.0
+313,15,"Addis-Adama Expressway, Akaki - IT Park (Goro) (14.5km), Akaki - Lebu (13.6km), Phase 2",2013,CHEXIM,$190.0M,Ethiopia,Transportation,190000000.0
+314,16,Dire Dawa-Dewalle Road (220km),2014,CHEXIM,$187.0M,Ethiopia,Transportation,187000000.0
+315,17,"Bole Airport Passenger Terminal, Expansion (Additional Finance)",2016,CHEXIM,$117.3M,Ethiopia,Transportation,117300000.0
+316,18,"Kality Ring Road, Interchange - Tulu Dimtu Roundabout (20.6km)",2016,CHEXIM,$102.7M,Ethiopia,Transportation,102700000.0
+317,19,"Modjo-Hawassa Expressway, Arsi Negele - Hawassa (52km)",2017,CHEXIM,$57.0M,Ethiopia,Transportation,57000000.0
+318,20,Purchase of Commercial Passenger Aircraft (20 Units),2019,ICBC,$500.0M,Ethiopia,Transportation,500000000.0
+319,1,"National Route 1, Pointe-Noire-Brazzaville Road, Phase I, Pointe-Noire - Dolisie (164km)",2006,CHEXIM,$565.3M,"Congo, Republic of the",Transportation,565300000.0
+320,2,"National Route 2, Owando-Makoua-Ouesso Road, Owando - Makoua - Mambili, Phase 1 (126km)",2006,CHEXIM,$241.3M,"Congo, Republic of the",Transportation,241300000.0
+321,3,"Brazzaville, Ollombo Airport, Modernization",2006,CHEXIM,$53.0M,"Congo, Republic of the",Transportation,53000000.0
+322,4,Purchase of MA60 Passenger Aircrafts (3 Units),2006,CHEXIM,$31.4M,"Congo, Republic of the",Transportation,31400000.0
+323,5,"Maya-Maya Airport, Brazzaville",2008,CHEXIM,$160.0M,"Congo, Republic of the",Transportation,160000000.0
+324,6,"Gabon Border Road, Obouya-Boundji-Okoyo-Gabon Border (OBO Road), Phase 1 (125km)",2008,CHEXIM,$106.3M,"Congo, Republic of the",Transportation,106300000.0
+325,7,"National Route 1, Pointe-Noire-Brazzaville Road, Dolisie - Brazzaville, Phase 2 (376km)",2012,CHEXIM,$1000.0M,"Congo, Republic of the",Transportation,1000000000.0
+326,8,"Oyo Harbor, Phase 1",2013,CHEXIM,$62.9M,"Congo, Republic of the",Transportation,62900000.0
+327,9,"National Route 2, Owando-Makoua-Ouesso Road, Mambili - Ouésso, Phase 2 (199km)",2013,CHEXIM,$230.0M,"Congo, Republic of the",Transportation,230000000.0
+328,10,"Gabon Border Road, Okoyo-Lékéty-Frontier Road, Phase 2 (90km)",2013,CHEXIM,$76.9M,"Congo, Republic of the",Transportation,76900000.0
+329,11,"Oyo Harbor, Phase 2",2013,CHEXIM,$22.5M,"Congo, Republic of the",Transportation,22500000.0
+330,1,Special Train Loan - TAZARA Railway,2001,CIDCA,$6.0M,Zambia,Transportation,6000000.0
+331,2,Special Train Loan - TAZARA Railway,2002,CIDCA,$6.0M,Zambia,Transportation,6000000.0
+332,3,TAZARA Railway Rehabilitation 12th Protocol,2004,CIDCA,$5.4M,Zambia,Transportation,5400000.0
+333,4,TAZARA Railway Protocol 2006,2006,CIDCA,$6.9M,Zambia,Transportation,6900000.0
+334,5,Purchase of TAZARA Railway Equipment and Machinery,2006,CIDCA,$6.9M,Zambia,Transportation,6900000.0
+335,6,TAZARA Railway,2006,CIDCA,$6.3M,Zambia,Transportation,6300000.0
+336,7,Purchase of Earth-moving Equipment for Road Rehabilitation,2007,CHEXIM,$39.9M,Zambia,Transportation,39900000.0
+337,8,TAZARA Railway Protocol - 2009 Recapitalization,2009,CIDCA,$18.7M,Zambia,Transportation,18700000.0
+338,9,TAZARA Railway 14th Protocol - Engine and Wagon Purchase,2010,CIDCA,$39.0M,Zambia,Transportation,39000000.0
+339,10,"Mongu-Kalabo Road, Mongu - Tapo (34km)",2011,CHEXIM,$244.0M,Zambia,Transportation,244000000.0
+340,11,TAZARA Railway 15th Protocol - Purchase of Locomotives,2012,CIDCA,$42.6M,Zambia,Transportation,42600000.0
+341,12,Mansa-Luwingu Road (175km),2013,CDB,$175.9M,Zambia,Transportation,175900000.0
+342,13,Mbala-Nakonde Road (172km),2013,CHEXIM,$196.0M,Zambia,Transportation,196000000.0
+343,14,"Lusaka Urban Road (L400) (400km), Upgrade",2013,CHEXIM,$295.8M,Zambia,Transportation,295800000.0
+344,15,"Lusaka International Airport (Kenneth Kaunda International Airport), Expansion",2014,CHEXIM,$228.8M,Zambia,Transportation,228800000.0
+345,16,TAZARA Railway,2015,CIDCA,$22.4M,Zambia,Transportation,22400000.0
+346,17,"Purchase of Earth-moving Machinery for Road Repairs/Contruction, Phase II",2015,Aviation Industry Corporation of China (AVIC),$49.9M,Zambia,Transportation,49900000.0
+347,18,Ndola City Roads Construction and Upgrade (42.9km),2016,Poly Technologies Inc.,$50.0M,Zambia,Transportation,50000000.0
+348,19,Mansa-Luwingu Road (175km) (Additional Loan),2016,CDB,$29.5M,Zambia,Transportation,29500000.0
+349,20,"Ndola International Airport, Phase 3",2016,CHEXIM,$192.8M,Zambia,Transportation,192800000.0
+350,21,"Lusaka Urban Road (L400), Upgrade, Phase 2",2016,CHEXIM,$312.8M,Zambia,Transportation,312800000.0
+351,22,"Lusaka Urban Road (L400) Upgrade, Phase III (400km) (BoC Portion)",2018,ICBC,$36.0M,Zambia,Transportation,36000000.0
+352,23,"Urban Roads, Kitwe, Chingola, and Mufulira, Copperbelt Province, Lot 1 (152km)",2018,CHEXIM,$137.5M,Zambia,Transportation,137500000.0
+353,24,"Lusaka Urban Road (L400), Upgrade (400km), Phase 3",2018,CHEXIM,$197.9M,Zambia,Transportation,197900000.0
+354,25,Kawambwa to Mporokoso (D019) Road Upgrade (122km),2018,CHEXIM,$13.2M,Zambia,Transportation,13200000.0
+355,26,"Rehabilitating and maintaining approximately 7,000km of (4,000km – Phase I and 3,000km – Phase II) feeder roads - Phase II",2019,China Geo Construction Engineering Corporation (CGC),$50.0M,Zambia,Transportation,50000000.0
+356,27,Lusaka-Kabwe-Ndola Road Highway/Dual Carriageway (336km),2020,"Other CN Financing: Jiangxi Bank Co., Ltd.",$30.0M,Zambia,Transportation,30000000.0
+357,28,"Urban roads, Ndola, Kalulushi, Chambeshi and Luanshya (154km), Lot 2",2020,CHEXIM,$69.9M,Zambia,Transportation,69900000.0
+358,1,Abidjan-Grand Bassam Road (42km),2012,CHEXIM,$114.8M,Côte d’Ivoire,Transportation,114800000.0
+359,2,"Port Expansion, Abidjan",2014,CHEXIM,$793.4M,Côte d’Ivoire,Transportation,793400000.0
+360,3,"Odienné-Gbéléban Road, Asphalting (71km)",2017,CHEXIM,$66.0M,Côte d’Ivoire,Transportation,66000000.0
+361,4,"Agboville Rubino-Ceshi Road, Asphalting (51km)",2017,CHEXIM,$62.0M,Côte d’Ivoire,Transportation,62000000.0
+362,5,Mame bond issue contract (Route ODIENNE - Mali and Guinea borders),2018,ICBC,$98.8M,Côte d’Ivoire,Transportation,98800000.0
+363,6,Tiébissou-Bouaké Highway (96km),2018,CHEXIM,$297.4M,Côte d’Ivoire,Transportation,297400000.0
+364,7,"Dry Port, Ferkessédougou",2019,ICBC,$192.0M,Côte d’Ivoire,Transportation,192000000.0
+365,8,"Road Project in the West, Touba - Ouaninou - Saoula (49km)",2019,ICBC,$207.9M,Côte d’Ivoire,Transportation,207900000.0
+366,9,Northern Border Road to Mali and Guinea with 3 bridges (231km),2020,ICBC,$138.6M,Côte d’Ivoire,Transportation,138600000.0
+367,10,"Korhogo-M’Bengue-Nielle-Kanakono-Tengrela Road, Asphalting (80km)",2020,ICBC,$102.7M,Côte d’Ivoire,Transportation,102700000.0
+368,11,"Tioroniaradougou – Dikodougou Road, Rehabilitation and Asphalting (50km)",2021,BoC,$69.8M,Côte d’Ivoire,Transportation,69800000.0
+369,12,"Tioroniaradougou – Dikodougou Road, Additional Finance for Rehabilitation and Asphalting (50km)",2023,BoC,$63.8M,Côte d’Ivoire,Transportation,63800000.0
+370,1,"Kribi Port, Phase 1",2011,CHEXIM,$423.0M,Cameroon,Transportation,423000000.0
+371,2,"Yaoundé - Douala Highway, Phase I",2012,CHEXIM,$482.8M,Cameroon,Transportation,482800000.0
+372,3,Purchase of MA60 Aircrafts (2 Units),2013,CHEXIM,$69.3M,Cameroon,Transportation,69300000.0
+373,4,"Kribi - Lolabe Highway, Kribi - Edéa, Phase 1 (100km)",2014,CHEXIM,$385.8M,Cameroon,Transportation,385800000.0
+374,5,"Kribi Port, Phase 2 (Preferential Export Buyer's Credit)",2017,CHEXIM,$524.5M,Cameroon,Transportation,524500000.0
+375,6,"Kribi Port, Phase 2 (Concessional Loan)",2017,CHEXIM,$147.9M,Cameroon,Transportation,147900000.0
+376,1,Transnet Syndicated Loan,2011,BoC,$90.0M,South Africa,Transportation,90000000.0
+377,2,Transnet Locomotive Purchases,2015,CDB,$1.4B,South Africa,Transportation,1400000000.0
+378,3,Transnet Club Loan,2016,BoC,$203.9M,South Africa,Transportation,203900000.0
+379,1,"Maputo International Airport Renovation, Phase I (CL Part, Total 117mn)",2007,CHEXIM,$50.0M,Mozambique,Transportation,50000000.0
+380,2,"Maputo International Airport, Renovation, Phase 1 (Commercial Loan)",2009,CHEXIM,$67.0M,Mozambique,Transportation,67000000.0
+381,3,Maputo Ring Road (74km),2012,CHEXIM,$300.0M,Mozambique,Transportation,300000000.0
+382,4,Maputo-Catembe Bridge/Katembe Bridge/Ponta D'Ouro Road (3km),2012,CHEXIM,$682.0M,Mozambique,Transportation,682000000.0
+383,5,Maputo-Catembe Bridge/Katembe Bridge/Ponta D'Ouro Road (3km),2012,CHEXIM,$72.6M,Mozambique,Transportation,72600000.0
+384,6,"EN6, Beira - Machipanda (287km), Repair (Loan 1)",2013,CHEXIM,$104.1M,Mozambique,Transportation,104100000.0
+385,7,"EN6, Beira - Machipanda (287km), Repair (Loan 2)",2014,CHEXIM,$312.4M,Mozambique,Transportation,312400000.0
+386,1,Thies-Touba Toll Highway (113km),2015,CHEXIM,$703.6M,Senegal,Transportation,703600000.0
+387,2,Blaise-Diagne International Airport (AIBD) - Mbour - Thiès Road (55km),2015,CHEXIM,$400.0M,Senegal,Transportation,400000000.0
+388,3,"Foundiougne Brigde, Construction",2016,CHEXIM,$71.0M,Senegal,Transportation,71000000.0
+389,4,Extension of the AIBD-Mbour-Thies Toll Highway (2018 commitment),2018,CIDCA,$75.8M,Senegal,Transportation,75800000.0
+390,5,Extension of the AIBD-Mbour-Thies Toll Highway (2019 commitment),2019,CIDCA,$3.9M,Senegal,Transportation,3900000.0
+391,6,Mbour-Fatick-Kaolack Road,2020,CHEXIM,$5.8M,Senegal,Transportation,5800000.0
+392,7,"Niayesy Road and Urban Connection Roads, Widening, Rehabilitation, and Development",2021,BoC,$104.6M,Senegal,Transportation,104600000.0
+393,8,"Dakar - Camberene Viaduct Road, Improvement Program",2021,BoC,$77.9M,Senegal,Transportation,77900000.0
+394,1,Purchase of Equipment for Local Governments,2011,CHEXIM,$103.7M,Uganda,Transportation,103700000.0
+395,2,Kampala-Entebbe Express Highway (51km),2011,CHEXIM,$350.0M,Uganda,Transportation,350000000.0
+396,3,"Entebbe Airport, Expansion, Phase 1",2015,CHEXIM,$202.3M,Uganda,Transportation,202300000.0
+397,4,Hoima-Butiama-Wanseko Road Upgrade (Oil Roads Lot 2),2020,CHEXIM,$152.6M,Uganda,Transportation,152600000.0
+398,5,Buhimba-Nalweyo-Bulamagi and Bulamagi-Igayaza-Kakumiro Roads Project (Oil Roads Lot 3),2020,CHEXIM,$117.7M,Uganda,Transportation,117700000.0
+399,6,Masindi (Kisanja)-Park Junction and Tangi Junction-Paraa Buliisa Roads Upgrade (Oil Roads Lot 1),2020,CHEXIM,$186.1M,Uganda,Transportation,186100000.0
+400,7,Oil Roads - Lots 5,2022,CHEXIM,$119.1M,Uganda,Transportation,119100000.0
+401,1,"Kinshasa, Avenue du Tourisme Refurbishment (6.8km)",2008,CHEXIM,$24.4M,"Congo, Democratic Republic of the",Transportation,24400000.0
+402,2,"Kinshasa, Lutendele Avenue Refurbishment (2.8km)",2008,CHEXIM,$21.0M,"Congo, Democratic Republic of the",Transportation,21000000.0
+403,3,"Beni - Niania Road, North Kivu, Refurbishment (60km)",2008,CHEXIM,$57.1M,"Congo, Democratic Republic of the",Transportation,57100000.0
+404,4,"RN5, Lubumbashi - Kasomeno, Katanga, Grading (137km)",2008,CHEXIM,$50.5M,"Congo, Democratic Republic of the",Transportation,50500000.0
+405,5,"RN5, Lubumbashi - Kasomeno, Katanga, Asphalting (137km)",2008,CHEXIM,$87.5M,"Congo, Democratic Republic of the",Transportation,87500000.0
+406,6,"Boulevard du 30 Juin Refurbishment in Kinshasa, Part 2 (2.5km)",2009,CHEXIM,$19.3M,"Congo, Democratic Republic of the",Transportation,19300000.0
+407,7,"Triomphal and Sendwe Boulevards, Kinshasa, Refurbishment (3.7km)",2009,CHEXIM,$29.2M,"Congo, Democratic Republic of the",Transportation,29200000.0
+408,8,"Boulevard du 30 Juin, Kinshasa, Refurbishment, Part 1 (5.3km)",2009,CHEXIM,$26.0M,"Congo, Democratic Republic of the",Transportation,26000000.0
+409,9,"RN5 Bukavu - Ngangezi - Kamanyola Upgrade, 55km, Phase I (5km)",2010,CHEXIM,$15.0M,"Congo, Democratic Republic of the",Transportation,15000000.0
+410,10,"RN2 Butembo Crossing, Phase I (7.5km)",2010,CHEXIM,$22.9M,"Congo, Democratic Republic of the",Transportation,22900000.0
+411,11,Acquisition of Construction Materials for Track Works,2011,CN Gov,$97.5M,"Congo, Democratic Republic of the",Transportation,97500000.0
+412,12,Rehabilitation of engineering structures and earthworks,2011,CN Gov,$3.8M,"Congo, Democratic Republic of the",Transportation,3800000.0
+413,13,Purchase of Electrical Substations (2 Units),2011,CN Gov,$9.6M,"Congo, Democratic Republic of the",Transportation,9600000.0
+414,14,"Purchase of Diesel Locomotives (20 Units), Electric Locomotives (10 Units) and Shunting Locomotives (5 Units)",2011,CN Gov,$68.3M,"Congo, Democratic Republic of the",Transportation,68300000.0
+415,15,Purchase of New Passenger Cars (60 Units),2011,CN Gov,$19.1M,"Congo, Democratic Republic of the",Transportation,19100000.0
+416,16,SNCC Other Non-technical Elements Procurement,2011,CN Gov,$1.7M,"Congo, Democratic Republic of the",Transportation,1700000.0
+417,17,"N'Djili Airport, Runway Refurbishment",2012,CHEXIM,$64.3M,"Congo, Democratic Republic of the",Transportation,64300000.0
+418,18,"Lwambo - Mitwaba - Manono - Kalemie Road, Rehabilitation, Phase 1 (Dirt) (171.6km)",2014,CHEXIM,$30.0M,"Congo, Democratic Republic of the",Transportation,30000000.0
+419,19,Goma: Bunagana - Rutshuru - Goma Road (15km),2015,CHEXIM,$10.0M,"Congo, Democratic Republic of the",Transportation,10000000.0
+420,20,"Kolwezi Road, Rehabilitation and Modernization",2015,CHEXIM,$6.0M,"Congo, Democratic Republic of the",Transportation,6000000.0
+421,21,"Mbuji Mayi to Mwene Ditu Road, Resurfacing",2015,CHEXIM,$15.0M,"Congo, Democratic Republic of the",Transportation,15000000.0
+422,22,"Kalemie Road Rehabilitation and Modernization, Phase I",2015,CHEXIM,$15.0M,"Congo, Democratic Republic of the",Transportation,15000000.0
+423,23,Kabalo Bridge Construction and Modernization Project,2015,CHEXIM,$5.5M,"Congo, Democratic Republic of the",Transportation,5500000.0
+424,24,"Kitanda - Ankoro Road, Rehabilitation and Modernization (70km)",2015,CHEXIM,$5.0M,"Congo, Democratic Republic of the",Transportation,5000000.0
+425,25,"Uvira Road, Rehabilitation and Modernization, Phase I (5km)",2015,CHEXIM,$5.0M,"Congo, Democratic Republic of the",Transportation,5000000.0
+426,26,"RN2 Butembo Crossing, Phase II (7.5km)",2015,CHEXIM,$11.0M,"Congo, Democratic Republic of the",Transportation,11000000.0
+427,27,"Road from Tubidi to Mbuji-Mayi, Asphalting",2015,CHEXIM,$3.0M,"Congo, Democratic Republic of the",Transportation,3000000.0
+428,28,Feasibility Study for the Rehabilitation and Modernization Project of the Mwene Ditu - Nguba Road,2016,CHEXIM,$2.3M,"Congo, Democratic Republic of the",Transportation,2300000.0
+429,29,"Nzolana Avenue, Rehabilitation; Anti-Erosion Control",2016,CHEXIM,$15.0M,"Congo, Democratic Republic of the",Transportation,15000000.0
+430,30,"Kabongo-Dianda - Mukwende Road, Rehabilitation (350km)",2016,CHEXIM,$6.0M,"Congo, Democratic Republic of the",Transportation,6000000.0
+431,31,"Kamina - Kabongo Road, Rehabilitation (230km)",2016,CHEXIM,$6.0M,"Congo, Democratic Republic of the",Transportation,6000000.0
+432,32,"Kikwit-Idiofa Road, Rehabilitation and Modernization (70km)",2016,CHEXIM,$10.0M,"Congo, Democratic Republic of the",Transportation,10000000.0
+433,33,"Kisangani Road, Rehabilitation and Modernization (10.914km)",2016,CHEXIM,$15.0M,"Congo, Democratic Republic of the",Transportation,15000000.0
+434,34,"Manono Road, Rehabilitation and Modernization (5km)",2016,CHEXIM,$5.0M,"Congo, Democratic Republic of the",Transportation,5000000.0
+435,35,"Ankoro - Manono Road, Rehabilitation and Modernization (115km)",2016,CHEXIM,$5.0M,"Congo, Democratic Republic of the",Transportation,5000000.0
+436,36,"Kalemie Airport, Terminal Construction",2017,CHEXIM,$5.5M,"Congo, Democratic Republic of the",Transportation,5500000.0
+437,37,"Kinshasa, Triomphal and Sendwe Boulevards Reinforcement (3.67km)",2017,CHEXIM,$5.0M,"Congo, Democratic Republic of the",Transportation,5000000.0
+438,38,"RN5, Bukavu - Ngangezi - Kamanyola, Upgrade, Phase 2 (50km)",2018,CHEXIM,$56.6M,"Congo, Democratic Republic of the",Transportation,56600000.0
+439,39,"Lwambo - Mitwaba - Manono - Kalemie Road Rehabilitation, Phase II (294.52km) - Asphalting",2018,CHEXIM,$284.7M,"Congo, Democratic Republic of the",Transportation,284700000.0
+440,40,"Uvira Road Rehabilitation and Modernization Project, Phase II (9.55km)",2018,CHEXIM,$5.0M,"Congo, Democratic Republic of the",Transportation,5000000.0
+441,41,"Kalemie Road, Rehabilitation and Modernization, Phase 2",2018,CHEXIM,$26.9M,"Congo, Democratic Republic of the",Transportation,26900000.0
+442,42,Lualaba: Kanina - Musonoï - Kapata Road Construction (12.93km),2018,CHEXIM,$9.5M,"Congo, Democratic Republic of the",Transportation,9500000.0
+443,43,"Sankuru, Construction of Lomela Bridge and its Social Support Components",2018,CHEXIM,$5.0M,"Congo, Democratic Republic of the",Transportation,5000000.0
+444,44,"Tanganyika, Access Road Connecting Kalemie Stadium to Lumumba Boulevard",2018,CHEXIM,$5.5M,"Congo, Democratic Republic of the",Transportation,5500000.0
+445,45,"Nzolana Avenue, Phase II",2022,CHEXIM,$24.0M,"Congo, Democratic Republic of the",Transportation,24000000.0
+446,1,Cairo-10th of Ramadan-New Administrative Capital Light Rail (68km) (Loan 1-CL),2018,CHEXIM,$695.5M,Egypt,Transportation,695500000.0
+447,2,Cairo-10th of Ramadan-New Administrative Capital Light Rail (68km) (Loan 2),2019,CHEXIM,$461.0M,Egypt,Transportation,461000000.0
+448,1,"Accra-Kumasi Road, Ofankor-Nsawam Section Rehablitation and Expansion (17.4km)",2003,CIDCA,$21.7M,Ghana,Transportation,21700000.0
+449,2,Purchase of Yaxing Buses (400 Units),2003,CHEXIM,$18.6M,Ghana,Transportation,18600000.0
+450,3,Accra Inner City Roads (84km),2018,Sinohydro Ltd.,$79.9M,Ghana,Transportation,79900000.0
+451,4,Kumasi Inner City Roads (100km),2018,Sinohydro Ltd.,$80.8M,Ghana,Transportation,80800000.0
+452,5,Tamale Interchange Project,2018,Sinohydro Ltd.,$39.1M,Ghana,Transportation,39100000.0
+453,6,"PTC Roundabout Interchange Project, Takoradi",2018,Sinohydro Ltd.,$57.8M,Ghana,Transportation,57800000.0
+454,7,Adenta-Dodowa Dual Carriageway (14km),2018,Sinohydro Ltd.,$71.4M,Ghana,Transportation,71400000.0
+455,8,Sunyani Inner City Roads (39km),2018,Sinohydro Ltd.,$49.3M,Ghana,Transportation,49300000.0
+456,9,Western Region and Cape Coast Inner City Roads (32.19km),2018,Sinohydro Ltd.,$40.0M,Ghana,Transportation,40000000.0
+457,10,Upgrading of Selected Feeder Roads in Ashanti and Western Regions (68km),2018,Sinohydro Ltd.,$45.0M,Ghana,Transportation,45000000.0
+458,11,Rehabilitation of Oda-Ofoase-Abirem Road (38km),2018,Sinohydro Ltd.,$34.0M,Ghana,Transportation,34000000.0
+459,12,Hohoe-Jasikan-Dodi Pepesu Road (66.4km),2018,Sinohydro Ltd.,$49.3M,Ghana,Transportation,49300000.0
+460,13,"Intelligent Traffic Management System; Road Completion, Accra",2019,CDB,$210.7M,Ghana,Transportation,210700000.0
+461,14,Purchase of Rolling Stock (35 new Standard Gauge Locomotives and Rolling Stock),2020,DEC (Dongfang Electric Corporation),$243.6M,Ghana,Transportation,243600000.0
+462,1,Purchase of Port Gantry Cranes,2003,CN Gov,$15.9M,Djibouti,Transportation,15900000.0
+463,2,Dorale-Nagad Railway Connection Project,2011,CHEXIM,$36.0M,Djibouti,Transportation,36000000.0
+464,3,Goubet Salt Port,2012,CHEXIM,$64.0M,Djibouti,Transportation,64000000.0
+465,4,"Addis-Djibouti Railway (Djibouti share), Ali Sabieh - Nagad (100km)",2013,CHEXIM,$491.8M,Djibouti,Transportation,491800000.0
+466,5,Doraleh Multipurpose Port; Damerjog Livestock Port,2016,CHEXIM,$344.5M,Djibouti,Transportation,344500000.0
+467,1,Port Gentil-Omboue Road and Booue Bridge (93km) (Concessional Loan),2013,CHEXIM,$130.7M,Gabon,Transportation,130699999.99999999
+468,2,Port Gentil-Omboue Road and Booue Bridge (93km) (Commercial Loan),2013,CHEXIM,$515.1M,Gabon,Transportation,515100000.0
+469,3,Farasol Mbega-Port-Gentil Road (22km),2016,CHEXIM,$102.8M,Gabon,Transportation,102800000.0
+470,4,Rehabilitation and Development works of Libreville Municipal Roads (CHEXIM Portion),2018,CHEXIM,$12.9M,Gabon,Transportation,12900000.0
+471,5,Route Realization Works National 1 (Troncons PK12-PK74 and PK94-PK105),2019,CHEXIM,$137.8M,Gabon,Transportation,137800000.0
+472,1,Akassato-Bohicon Road Lot 2 (19.26km),2013,CIDCA,$58.4M,Benin,Transportation,58400000.0
+473,2,Akassato-Bohicon Road Lot 1 (12.3km),2013,CIDCA,$22.7M,Benin,Transportation,22700000.0
+474,3,"Akassato - Bohicon Road, Lot 3 (72.1km)",2013,CHEXIM,$129.0M,Benin,Transportation,129000000.0
+475,4,Glo-Djigbé International Airport,2021,CHEXIM,$670.7M,Benin,Transportation,670700000.0
+476,1,Aircrafts Parts Purchase,2003,CN Gov,$41.0M,Sudan,Transportation,41000000.0
+477,2,Rufaa Bridge/Sennar Bridge,2004,CN Gov,$12.0M,Sudan,Transportation,12000000.0
+478,3,El Dueim Bridge,2004,CN Gov,$9.4M,Sudan,Transportation,9400000.0
+479,4,Renk-Malakal Road Construction (340km),2009,CHEXIM,$199.4M,Sudan,Transportation,199400000.0
+480,5,Aum Kadada - Alfashir Road (or Salvation Road or Aum-Fa Road),2009,CHEXIM,$86.4M,Sudan,Transportation,86400000.0
+481,6,South Kordofan Um Rawaba- Abu Gibeha Ring Road (or Aum Roaba - Abu Gebaha Road) (141km),2009,CHEXIM,$63.2M,Sudan,Transportation,63200000.0
+482,7,Al Dibabat-Abou Zayd-El Fula Road (or Dubeibat-Abu Zabad-El Fula Road) (185km),2009,CHEXIM,$90.0M,Sudan,Transportation,90000000.0
+483,8,El Nahood-Aum Kadada Road (or En Nahud-Um Kadada Road) (211km),2009,CHEXIM,$109.8M,Sudan,Transportation,109800000.0
+484,9,Zalingei-El Geneinah Road (or Zalingei-Al Junaynah Road) (175km),2009,CHEXIM,$120.0M,Sudan,Transportation,120000000.0
+485,10,"Sennar Bridge, Construction",2010,CHEXIM,$59.4M,Sudan,Transportation,59400000.0
+486,11,"Economic and Technical Projects, Atbara Steel Bridge",2011,CIDCA,$4.7M,Sudan,Transportation,4700000.0
+487,1,"N1 Highway, Coyah - Mamou - Dabola, Rehabilitation (96km)",2018,ICBC and other Lenders,$441.1M,Guinea,Transportation,441100000.0
+488,2,"Conakry Municipal Roads, Construction; Matoto and Kagbelen Flyovers, Rehabilitation",2018,ICBC and other Lenders,$250.0M,Guinea,Transportation,250000000.0
+489,1,Purchase of Buses (100 Units),2014,Poly Technologies Inc.,$12.0M,Sierra Leone,Transportation,12000000.0
+490,2,"Queen Elizabeth II Quay, Update",2017,ICBC,$529.0M,Sierra Leone,Transportation,529000000.0
+491,3,Queen Elizabeth II Quay Update (CHEXIM Portion),2017,CHEXIM,$130.0M,Sierra Leone,Transportation,130000000.0
+492,1,Niefang-Nkue Road (34km),2001,CIDCA,$11.0M,Equatorial Guinea,Transportation,11000000.0
+493,2,Bata-Niefang Road Rehabilitation (63.345km),2003,CIDCA,$6.0M,Equatorial Guinea,Transportation,6000000.0
+494,3,"Bata Port, Expansion",2007,CHEXIM,$366.8M,Equatorial Guinea,Transportation,366800000.0
+495,4,Micomeseng-Bonkoro Road (88.6km),2017,CHEXIM,$261.1M,Equatorial Guinea,Transportation,261100000.00000003
+496,1,"Lome bypass; Aledjo Fault Bypass; Montagne de Defale Bypass; N1 Tandjouare - Cinkasse (Togo-Burkina border), Renovation and Asphalting, Phase 1 (12.1km)",2009,CHEXIM,$165.0M,Togo,Transportation,165000000.0
+497,2,New Lome International Airport (Concessional Loan),2012,CHEXIM,$75.0M,Togo,Transportation,75000000.0
+498,3,New Lome International Airport (Export Buyer's Credit),2012,CHEXIM,$75.0M,Togo,Transportation,75000000.0
+499,4,"Lomé Bypass, Phase 2, Asphalting",2013,CHEXIM,$91.1M,Togo,Transportation,91100000.0
+500,5,Lome International Airport Taxiway and Corridor Extension,2016,CIDCA,$65.8M,Togo,Transportation,65800000.0
+501,6,"Niamtougou Airport, Re-Development",2016,CHEXIM,$46.8M,Togo,Transportation,46800000.0
+502,7,"Lome International Airport, Phase II, Expansion",2016,CHEXIM,$65.8M,Togo,Transportation,65800000.0
+503,1,Juba International Airport,2014,CHEXIM,$150.0M,South Sudan,Transportation,150000000.0
+504,2,Air Traffic Management System,2018,CHEXIM,$248.8M,South Sudan,Transportation,248800000.0
+505,1,"Nouakchott Friendship Port, Expansion",2009,CHEXIM,$292.8M,Mauritania,Transportation,292800000.0
+506,2,"Hope Delta Road, Néma – Bassikounou (172km)",2010,CHEXIM,$86.1M,Mauritania,Transportation,86100000.0
+507,1,Ivato Airport - Antananarivo Boulevard de l'Europe Expressway,2017,CHEXIM,$105.0M,Madagascar,Transportation,105000000.0
+508,2,"Ivato-Tsarasoatra Road (11km); Boulevard de l'Europe in Village de la Francophonie, Rehabilitation",2018,CHEXIM,$41.0M,Madagascar,Transportation,41000000.0
+509,3,"Port of Toamasina - RN2 Expressway, Construction (10km)",2018,CHEXIM,$61.6M,Madagascar,Transportation,61600000.0
+510,4,"RN5A, Ambilobe - Vohemar, Rehabilitation (150km)",2019,CHEXIM,$157.7M,Madagascar,Transportation,157700000.0
+511,1,MA60 Cargo Plane,2005,China National Aero-Technology Import and Export Corporation (CATIC),$12.0M,Zimbabwe,Transportation,12000000.0
+512,2,Bus Purchase,2008,Kimberley (Chinese Private Company),$18.0M,Zimbabwe,Transportation,18000000.0
+513,3,"Victoria Falls Airport, Renovation",2012,CHEXIM,$162.4M,Zimbabwe,Transportation,162400000.0
+514,4,Road Equipment for Rural District Councils Purchase,2013,CIDCA,$9.7M,Zimbabwe,Transportation,9700000.0
+515,5,"Robert Gabriel Mugabe International Airport, Harare, Upgrade",2018,CHEXIM,$157.8M,Zimbabwe,Transportation,157800000.0
+516,1,"Urban Roads, Kigali, Upgrade (36km)",2009,CHEXIM,$32.1M,Rwanda,Transportation,32100000.0
+517,2,"Kivu Belt, Lots 4,5; Mwityazo-Ruvumbu-Karongi Road (66km)",2012,CHEXIM,$113.0M,Rwanda,Transportation,113000000.0
+518,3,"Urban Roads, Kigali, Upgrade (54km)",2016,CHEXIM,$73.9M,Rwanda,Transportation,73900000.0
+519,4,"Huye – Kibeho - Munini Road, Upgrade (66km)",2018,CHEXIM,$83.1M,Rwanda,Transportation,83100000.0
+520,5,"Bugesera International Airport Access Road, Sonatubes-Gahanga-Akagera Road (13.8km)",2018,CHEXIM,$51.4M,Rwanda,Transportation,51400000.0
+521,1,Financing for Mauritius Shipping Corporation Ltd.,2004,CHEXIM,$4.8M,Mauritius,Transportation,4800000.0
+522,2,"Sir Seewoosagur Ramgoolam International Airport (SSR) Passenger Terminal, Apron and Parking, Upgrade",2009,CHEXIM,$260.0M,Mauritius,Transportation,260000000.0
+523,1,Diffa-N'guigmi-Chadian Frontier Road (La Route de l'Unite; Oil Road),2011,CNPC (China National Petroleum Corporation),$224.0M,Niger,Transportation,224000000.0
+524,2,Third Bridge over Niger River (The General Seyni Kountché Bridge),2015,CIDCA,$15.0M,Niger,Transportation,15000000.0
+525,1,"Berrechid–Ben Ahmed Highway, Berrechid-Beni Mellal, Section 1 (38.6km)",2011,CHEXIM,$183.6M,Morocco,Transportation,183600000.0
+526,1,"Bamako-Ségou Road, Renovation, Phase 1",2010,CHEXIM,$156.1M,Mali,Transportation,156100000.0
+527,1,Purchase of Diesel Locomotives (17 Units) and Cargo Trains (200 Units),2005,CHEXIM,$30.5M,Namibia,Transportation,30500000.0
+528,2,"DR3608, Omafo - Outapi, Upgrade (98km)",2012,CHEXIM,$88.0M,Namibia,Transportation,88000000.0
+529,3,"MR67, Omakange - Ruacana (86km)",2012,CHEXIM,$33.0M,Namibia,Transportation,33000000.0
+530,1,Ha-Mpiti-SehlabaThebe Road (92km),2018,CHEXIM,$105.8M,Lesotho,Transportation,105800000.0
+531,1,Adi-Guaedad to Habela Asphalt Road (29km),2018,CHEXIM,$87.0M,Eritrea,Transportation,87000000.0
+532,1,Purchase of Trains (20 Units),2009,CHEXIM,$80.2M,Tunisia,Transportation,80200000.0
+533,1,TAZARA Railway Rehabilitation 12th Protocol,2004,CN Gov,$5.4M,Tanzania,Transportation,5400000.0
+534,2,"Zanzibar Airport, Terminal 2",2010,CHEXIM,$71.0M,Tanzania,Transportation,71000000.0
+535,1,"Letlhakeng-Kang Road Section I, Letlhakeng-Dultwe (561km)",2003,CHEXIM,$24.3M,Botswana,Transportation,24300000.0
+536,2,"Letlhakeng-Kang Road Section II, Dultwe-Kang/Morwamosu (133km) (BWP portion)",2006,CHEXIM,$17.8M,Botswana,Transportation,17800000.0
+537,3,"Letlhakeng-Kang Road Section II, Dultwe-Kang/Morwamosu (133km) (USD portion)",2006,CHEXIM,$17.0M,Botswana,Transportation,17000000.0
+538,1,"Roberts International Airport, Rehabilitation",2016,CHEXIM,$52.7M,Liberia,Transportation,52700000.0
+539,1,Access Road to Mugere Hydroelectric Project,2008,CIDCA,$2.9M,Burundi,Transportation,2900000.0
+540,2,MA60 Plane Purchase,2013,CHEXIM,$31.5M,Burundi,Transportation,31500000.0
+541,1,Purchase of Y-12E Utility Aircraft (2 Units),2008,CHEXIM,$11.0M,Seychelles,Transportation,11000000.0
+542,1,"Moroni, Prince Said Ibrahim International Airport",2004,CHEXIM,$8.0M,Comoros,Transportation,8000000.0
