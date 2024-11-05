@@ -20,6 +20,9 @@ from bs4 import BeautifulSoup
 from webdriver_manager.chrome import ChromeDriverManager
 
 
+from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
+
 
 # Automate navigating within browser (SELENIUM)
 #------ Key: Manage keys
