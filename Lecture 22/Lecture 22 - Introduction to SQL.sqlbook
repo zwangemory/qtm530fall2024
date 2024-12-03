@@ -8,6 +8,8 @@ SQL is a language specializing in database management
 - Widely used in industry
 - Typical task is to extract data from server
 - Many concepts are similar to Python
+
+
 -- SQLBook: Markup
 # <span style="color:darkblue"> I. Connect to Local Server </span>
 
